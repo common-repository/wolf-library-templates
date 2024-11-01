@@ -1,0 +1,601 @@
+{
+  "site_url": "http:\/\/theme.wolfcoding.com\/",
+  "page_on_front": "6",
+  "show_on_front": "page",
+  "nav_menu_locations": {
+    "primary": 3
+  },
+  "terms": [
+    {
+      "id": 1,
+      "name": "Uncategorized",
+      "slug": "uncategorized",
+      "taxonomy_id": 1,
+      "taxonomy": "category",
+      "description": "",
+      "parent": 0,
+      "meta": []
+    },
+    {
+      "id": 3,
+      "name": "Main Menu",
+      "slug": "main-menu",
+      "taxonomy_id": 3,
+      "taxonomy": "nav_menu",
+      "description": "",
+      "parent": 0,
+      "meta": []
+    }
+  ],
+  "posts": [
+    {
+      "id": 4,
+      "name": "default-kit",
+      "title": "Default Kit",
+      "type": "elementor_library",
+      "status": "publish",
+      "comment_status": "closed",
+      "excerpt": "",
+      "content": "",
+      "parent": 0,
+      "menu_order": 0,
+      "meta": {
+        "_elementor_edit_mode": "builder",
+        "_elementor_template_type": "kit",
+        "_elementor_css": "a:6:{s:4:\"time\";i:1632497893;s:5:\"fonts\";a:2:{i:0;s:6:\"Roboto\";i:1;s:11:\"Roboto Slab\";}s:5:\"icons\";a:0:{}s:20:\"dynamic_elements_ids\";a:0:{}s:6:\"status\";s:4:\"file\";i:0;s:0:\"\";}"
+      }
+    },
+    {
+      "id": 6,
+      "name": "home-education",
+      "title": "Home Education",
+      "type": "page",
+      "status": "publish",
+      "comment_status": "closed",
+      "excerpt": "",
+      "content": "<h1>ONLINE TUTORS<\/h1>\t\t\n\t\t\t<h1>FIND THE RIGHT ONE FOR YOU<\/h1>\t\t\n            <a href=\"#\" data-text=\"Go!\">\n                    Contact Now\n            <\/a>\n\t\t\t\t<h4>\n\t\t\t\t\t\t5.000 + <br>\nOnline Courses \nActive\t\t\t\t\t\n\t\t\t\t<\/h4>\n\t\t\t\t<h4>\n\t\t\t\t\t\t20.000+ <br>\nOnline Students\n\t\t\t\t<\/h4>\n\t\t\t\t<h4>\n\t\t\t\t\t\tLifetime Support From Tutors\t\t\t\t\t\n\t\t\t\t<\/h4>\n\t\t\t\t<h4>\n\t\t\t\t\t\tFree Document Access\t\t\t\t\t\n\t\t\t\t<\/h4>\n\t\t\t<h2>Our main courses\n<\/h2>\t\t\n\t\t\t<figure><a href=\"#\" target=\"_blank\" rel=\"noopener\"><img width=\"300\" height=\"197\" src=\"http:\/\/theme.wolfcoding.com\/education\/wp-content\/uploads\/sites\/2\/2021\/10\/inside_business_center_interior_foyer_lobby_entrance_architecture-593374.jpgd_-300x197.jpg\" alt=\"\" loading=\"lazy\" \/><\/a><\/figure><h3><a href=\"#\" target=\"_blank\" rel=\"noopener\">English For Kids <br>From 4 - 8 Years Old<\/a><\/h3>\t\t\n\t\t\t<figure><a href=\"#\" target=\"_blank\" rel=\"noopener\"><img width=\"300\" height=\"200\" src=\"http:\/\/theme.wolfcoding.com\/education\/wp-content\/uploads\/sites\/2\/2021\/10\/business_center_exterior_architecture_glass_modern_corporate_building-593375.jpgd_-300x200.jpg\" alt=\"\" loading=\"lazy\" \/><\/a><\/figure><h3><a href=\"#\" target=\"_blank\" rel=\"noopener\">Become An Expert In <br>Digital Marketing<\/a><\/h3>\t\t\n\t\t\t<figure><a href=\"#\" target=\"_blank\" rel=\"noopener\"><img width=\"300\" height=\"200\" src=\"http:\/\/theme.wolfcoding.com\/education\/wp-content\/uploads\/sites\/2\/2021\/10\/inside_business_center_interior_foyer_lobby_entrance_architecture-593373.jpgd_-300x200.jpg\" alt=\"\" loading=\"lazy\" \/><\/a><\/figure><h3><a href=\"#\" target=\"_blank\" rel=\"noopener\">Facebook Advertising <br>For Beginners <\/a><\/h3>\t\t\n\t\t\t<figure><a href=\"#\" target=\"_blank\" rel=\"noopener\"><img width=\"300\" height=\"166\" src=\"http:\/\/theme.wolfcoding.com\/education\/wp-content\/uploads\/sites\/2\/2021\/10\/modern_office_architecture_business_centre_glass_atrium_urban_office_modern-675610.jpgd_-300x166.jpg\" alt=\"\" loading=\"lazy\" \/><\/a><\/figure><h3><a href=\"#\" target=\"_blank\" rel=\"noopener\">Google Adwords Expert<br>For Beginners<\/a><\/h3>\t\t\n\t\t\t<figure><a href=\"#\" target=\"_blank\" rel=\"noopener\"><img width=\"300\" height=\"200\" src=\"http:\/\/theme.wolfcoding.com\/education\/wp-content\/uploads\/sites\/2\/2021\/09\/tyler-nix-W9rOPHK-RQ-unsplash-300x200.jpg\" alt=\"\" loading=\"lazy\" \/><\/a><\/figure><h3><a href=\"#\" target=\"_blank\" rel=\"noopener\">Strategy Law And Organization Foundation<\/a><\/h3>\t\t\n\t\t\t<figure><a href=\"#\" target=\"_blank\" rel=\"noopener\"><img width=\"300\" height=\"200\" src=\"http:\/\/theme.wolfcoding.com\/education\/wp-content\/uploads\/sites\/2\/2021\/09\/pickawood-6tAIO3pxde4-unsplash-300x200.jpg\" alt=\"\" loading=\"lazy\" \/><\/a><\/figure><h3><a href=\"#\" target=\"_blank\" rel=\"noopener\">Become An Awesome Product Managers<\/a><\/h3>\t\t\n\t\t\t<figure><a href=\"#\" target=\"_blank\" rel=\"noopener\"><img width=\"300\" height=\"200\" src=\"http:\/\/theme.wolfcoding.com\/education\/wp-content\/uploads\/sites\/2\/2021\/09\/oleg-laptev-x6kTRrrjhuo-unsplash-300x200.jpg\" alt=\"\" loading=\"lazy\" \/><\/a><\/figure><h3><a href=\"#\" target=\"_blank\" rel=\"noopener\">Creative Writing By Storytelling <\/a><\/h3>\t\t\n\t\t\t<figure><a href=\"#\" target=\"_blank\" rel=\"noopener\"><img width=\"300\" height=\"200\" src=\"http:\/\/theme.wolfcoding.com\/education\/wp-content\/uploads\/sites\/2\/2021\/09\/mueen-agherdien-t1U-dVo7NBo-unsplash-300x200.jpg\" alt=\"\" loading=\"lazy\" \/><\/a><\/figure><h3><a href=\"#\" target=\"_blank\" rel=\"noopener\">Become An Expert In  Digital Marketing \u200b<\/a><\/h3>\t\t\n\t\t\t<h2>Why choose Us<\/h2>\t\t\n\t\t\t\t<h3>\n\t\t\t\t\t\tProfessional Trainers\t\t\t\t\t\n\t\t\t\t<\/h3>\n\t\t\t\t\t\t\t\t\t<p>\n\t\t\t\t\t\tLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et\t\t\t\t\t<\/p>\n\t\t\t\t<h3>\n\t\t\t\t\t\t24\/7 Support\t\t\t\t\t\n\t\t\t\t<\/h3>\n\t\t\t\t\t\t\t\t\t<p>\n\t\t\t\t\t\tLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore\t\t\t\t\t<\/p>\n\t\t\t\t<h3>\n\t\t\t\t\t\tOnline Everywhere\t\t\t\t\t\n\t\t\t\t<\/h3>\n\t\t\t\t\t\t\t\t\t<p>\n\t\t\t\t\t\tLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore\t\t\t\t\t<\/p>\n\t\t\t<h2>BEST CATEGORY<\/h2>\t\t\n\t\t\tContrary to popular belief, Lorem Ipsum is not simply random text\t\t\n\t\t\t\t<h5>\n\t\t\t\t\t\t3D Printing Concept\t\t\t\t\t\n\t\t\t\t<\/h5>\n\t\t\t\t<h5>\n\t\t\t\t\t\tArchitectural\t\t\t\t\t\n\t\t\t\t<\/h5>\n\t\t\t\t<h5>\n\t\t\t\t\t\tArt & Design\t\t\t\t\t\n\t\t\t\t<\/h5>\n\t\t\t\t<h5>\n\t\t\t\t\t\tAudio & Music\t\t\t\t\t\n\t\t\t\t<\/h5>\n\t\t\t\t<h5>\n\t\t\t\t\t\tCommunication\t\t\t\t\t\n\t\t\t\t<\/h5>\n\t\t\t\t<h5>\n\t\t\t\t\t\tConceptual Art\t\t\t\t\t\n\t\t\t\t<\/h5>\n\t\t\t\t<h5>\n\t\t\t\t\t\tDevelopment\t\t\t\t\t\n\t\t\t\t<\/h5>\n\t\t\t\t<h5>\n\t\t\t\t\t\tMaterial Design\t\t\t\t\t\n\t\t\t\t<\/h5>\n\t\t\t\t<h5>\n\t\t\t\t\t\tPhotography\t\t\t\t\t\n\t\t\t\t<\/h5>\n\t\t\t<h3>We are hear to listen to you<\/h3>\t\t\n\t\t\t<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<\/p>\t\t\n            <a href=\"#\" data-text=\"Go!\">\n                    Register Now\n            <\/a>\n\t\t\t<h2>Discover New Knowledge With Us<\/h2>\t\t\n            <article data-id=\"59\">\n            <a href=\"http:\/\/theme.wolfcoding.com\/education\/consequatur-qui-qui-tempore-cupiditate-ullam-officia\/\"><\/a>\n                <img width=\"300\" height=\"200\" src=\"http:\/\/theme.wolfcoding.com\/education\/wp-content\/uploads\/sites\/2\/2021\/09\/pickawood-6tAIO3pxde4-unsplash-300x200.jpg\" alt=\"\" loading=\"lazy\" srcset=\"http:\/\/theme.wolfcoding.com\/education\/wp-content\/uploads\/sites\/2\/2021\/09\/pickawood-6tAIO3pxde4-unsplash-300x200.jpg 300w, http:\/\/theme.wolfcoding.com\/education\/wp-content\/uploads\/sites\/2\/2021\/09\/pickawood-6tAIO3pxde4-unsplash.jpg 640w\" sizes=\"(max-width: 300px) 100vw, 300px\" \/>\n        <header><h2><a\n                        href=\"http:\/\/theme.wolfcoding.com\/education\/consequatur-qui-qui-tempore-cupiditate-ullam-officia\/\"\n                        title=\"Consequatur qui qui tempore cupiditate ullam officia\">Consequatur qui qui tempore cupiditate ullam officia<\/a><\/h2><\/header>\n                        <p>Voluptatem autem nihil est voluptatum veniam aut nulla molestias repellat...<\/p><a\n                            href=\"http:\/\/theme.wolfcoding.com\/education\/consequatur-qui-qui-tempore-cupiditate-ullam-officia\/\"\n                           >Read More<\/a>\n                    <a href=\"http:\/\/theme.wolfcoding.com\/education\/author\/education\/\"><img alt='' src='http:\/\/1.gravatar.com\/avatar\/a6fb6ffb3d92aa2cfdbe0533db3927b8?s=96&d=mm&r=g' srcset='http:\/\/1.gravatar.com\/avatar\/a6fb6ffb3d92aa2cfdbe0533db3927b8?s=192&d=mm&r=g 2x' class='avatar avatar-96 photo' height='96' width='96' loading='lazy'\/><\/a><a href=\"http:\/\/theme.wolfcoding.com\/education\/author\/education\/\" title=\"Posts by education\" rel=\"author\">education<\/a><time datetime=\"September 24, 2021\">September 24, 2021<\/time>\n    <\/article><article data-id=\"61\">\n            <a href=\"http:\/\/theme.wolfcoding.com\/education\/asperiores-sunt-sapiente-dolore-animi-ea\/\"><\/a>\n                <img width=\"300\" height=\"200\" src=\"http:\/\/theme.wolfcoding.com\/education\/wp-content\/uploads\/sites\/2\/2021\/09\/oleg-laptev-x6kTRrrjhuo-unsplash-300x200.jpg\" alt=\"\" loading=\"lazy\" srcset=\"http:\/\/theme.wolfcoding.com\/education\/wp-content\/uploads\/sites\/2\/2021\/09\/oleg-laptev-x6kTRrrjhuo-unsplash-300x200.jpg 300w, http:\/\/theme.wolfcoding.com\/education\/wp-content\/uploads\/sites\/2\/2021\/09\/oleg-laptev-x6kTRrrjhuo-unsplash.jpg 640w\" sizes=\"(max-width: 300px) 100vw, 300px\" \/>\n        <header><h2><a\n                        href=\"http:\/\/theme.wolfcoding.com\/education\/asperiores-sunt-sapiente-dolore-animi-ea\/\"\n                        title=\"Asperiores sunt sapiente dolore animi ea\">Asperiores sunt sapiente dolore animi ea<\/a><\/h2><\/header>\n                        <p>Sapiente magni omnis voluptatem ipsam accusantium. Ea ut alias similique...<\/p><a\n                            href=\"http:\/\/theme.wolfcoding.com\/education\/asperiores-sunt-sapiente-dolore-animi-ea\/\"\n                           >Read More<\/a>\n                    <a href=\"http:\/\/theme.wolfcoding.com\/education\/author\/education\/\"><img alt='' src='http:\/\/1.gravatar.com\/avatar\/a6fb6ffb3d92aa2cfdbe0533db3927b8?s=96&d=mm&r=g' srcset='http:\/\/1.gravatar.com\/avatar\/a6fb6ffb3d92aa2cfdbe0533db3927b8?s=192&d=mm&r=g 2x' class='avatar avatar-96 photo' height='96' width='96' loading='lazy'\/><\/a><a href=\"http:\/\/theme.wolfcoding.com\/education\/author\/education\/\" title=\"Posts by education\" rel=\"author\">education<\/a><time datetime=\"September 24, 2021\">September 24, 2021<\/time>\n    <\/article><article data-id=\"63\">\n            <a href=\"http:\/\/theme.wolfcoding.com\/education\/cupiditate-veniam-autem-occaecati\/\"><\/a>\n                <img width=\"300\" height=\"200\" src=\"http:\/\/theme.wolfcoding.com\/education\/wp-content\/uploads\/sites\/2\/2021\/09\/mueen-agherdien-t1U-dVo7NBo-unsplash-300x200.jpg\" alt=\"\" loading=\"lazy\" srcset=\"http:\/\/theme.wolfcoding.com\/education\/wp-content\/uploads\/sites\/2\/2021\/09\/mueen-agherdien-t1U-dVo7NBo-unsplash-300x200.jpg 300w, http:\/\/theme.wolfcoding.com\/education\/wp-content\/uploads\/sites\/2\/2021\/09\/mueen-agherdien-t1U-dVo7NBo-unsplash.jpg 640w\" sizes=\"(max-width: 300px) 100vw, 300px\" \/>\n        <header><h2><a\n                        href=\"http:\/\/theme.wolfcoding.com\/education\/cupiditate-veniam-autem-occaecati\/\"\n                        title=\"Cupiditate veniam autem occaecati\">Cupiditate veniam autem occaecati<\/a><\/h2><\/header>\n                        <p>Quisquam labore veniam ullam quo ut ipsam dolores. vel vel...<\/p><a\n                            href=\"http:\/\/theme.wolfcoding.com\/education\/cupiditate-veniam-autem-occaecati\/\"\n                           >Read More<\/a>\n                    <a href=\"http:\/\/theme.wolfcoding.com\/education\/author\/education\/\"><img alt='' src='http:\/\/1.gravatar.com\/avatar\/a6fb6ffb3d92aa2cfdbe0533db3927b8?s=96&d=mm&r=g' srcset='http:\/\/1.gravatar.com\/avatar\/a6fb6ffb3d92aa2cfdbe0533db3927b8?s=192&d=mm&r=g 2x' class='avatar avatar-96 photo' height='96' width='96' loading='lazy'\/><\/a><a href=\"http:\/\/theme.wolfcoding.com\/education\/author\/education\/\" title=\"Posts by education\" rel=\"author\">education<\/a><time datetime=\"September 24, 2021\">September 24, 2021<\/time>\n    <\/article>",
+      "parent": 0,
+      "menu_order": 0,
+      "meta": {
+        "_edit_lock": "1633939007:1",
+        "_elementor_edit_mode": "builder",
+        "_elementor_template_type": "wp-page",
+        "_elementor_version": "3.4.4",
+        "_wp_page_template": "elementor_header_footer",
+        "_elementor_page_settings": "a:1:{s:18:\"eael_ext_toc_title\";s:17:\"Table of Contents\";}",
+        "_elementor_data": "[{\"id\":\"82fb108\",\"elType\":\"section\",\"settings\":{\"layout\":\"full_width\",\"custom_height\":{\"unit\":\"px\",\"size\":\"\",\"sizes\":[]},\"background_background\":\"classic\",\"background_image\":{\"id\":214,\"url\":\"http:\\\/\\\/theme.wolfcoding.com\\\/education\\\/wp-content\\\/uploads\\\/sites\\\/2\\\/2021\\\/10\\\/graduation_man_cap_gown_education_university_college_school-867306.jpgd_.jpg\",\"alt\":\"\",\"source\":\"library\"},\"background_repeat\":\"no-repeat\",\"background_size\":\"cover\",\"margin\":{\"unit\":\"px\",\"top\":\"-75\",\"right\":0,\"bottom\":\"0\",\"left\":0,\"isLinked\":false},\"padding\":{\"unit\":\"px\",\"top\":\"180\",\"right\":\"0\",\"bottom\":\"180\",\"left\":\"0\",\"isLinked\":false},\"background_image_mobile\":{\"url\":\"https:\\\/\\\/ocanus.com\\\/wp-content\\\/uploads\\\/2021\\\/09\\\/slide2-1919x793-1.jpg\",\"id\":11,\"alt\":\"\",\"source\":\"library\"},\"background_position_mobile\":\"center center\",\"background_overlay_background\":\"classic\",\"background_overlay_color\":\"#0B0A0A\",\"background_overlay_color_stop\":{\"unit\":\"%\",\"size\":20,\"sizes\":[]},\"background_overlay_gradient_angle\":{\"unit\":\"deg\",\"size\":250,\"sizes\":[]},\"background_position\":\"center center\"},\"elements\":[{\"id\":\"471732f9\",\"elType\":\"column\",\"settings\":{\"_column_size\":100,\"_inline_size\":null},\"elements\":[{\"id\":\"6e15e8b6\",\"elType\":\"section\",\"settings\":{\"content_position\":\"middle\"},\"elements\":[{\"id\":\"1e39888\",\"elType\":\"column\",\"settings\":{\"_column_size\":100,\"_inline_size\":null},\"elements\":[{\"id\":\"4ba0d320\",\"elType\":\"widget\",\"settings\":{\"title\":\"ONLINE TUTORS\",\"align\":\"center\",\"title_color\":\"#EAB830\",\"typography_typography\":\"custom\",\"typography_font_family\":\"Montserrat\",\"header_size\":\"h1\"},\"elements\":[],\"widgetType\":\"heading\"},{\"id\":\"4749eb39\",\"elType\":\"widget\",\"settings\":{\"title\":\"FIND THE RIGHT ONE FOR YOU\",\"header_size\":\"h1\",\"align\":\"center\",\"title_color\":\"#FFFFFF\",\"typography_typography\":\"custom\",\"typography_text_transform\":\"uppercase\",\"typography_font_family\":\"Montserrat\",\"typography_font_weight\":\"700\",\"typography_line_height_mobile\":{\"unit\":\"em\",\"size\":1.3,\"sizes\":[]},\"typography_line_height\":{\"unit\":\"px\",\"size\":58,\"sizes\":[]}},\"elements\":[],\"widgetType\":\"heading\"},{\"id\":\"c8d9e1a\",\"elType\":\"widget\",\"settings\":{\"creative_button_text\":\"Contact Now\",\"creative_button_secondary_text\":\"Go!\",\"eael_creative_button_background_color\":\"#FF554400\",\"eael_creative_button_border_border\":\"solid\",\"eael_creative_button_border_width\":{\"unit\":\"px\",\"top\":\"2\",\"right\":\"2\",\"bottom\":\"2\",\"left\":\"2\",\"isLinked\":true},\"eael_creative_button_border_radius\":{\"unit\":\"px\",\"size\":30,\"sizes\":[]},\"eael_creative_button_hover_background_color\":\"#2C75E4\",\"eael_creative_button_hover_border_color\":\"#2C75E4\",\"eael_creative_button_alignment\":\"center\",\"eael_creative_button_typography_typography\":\"custom\",\"eael_creative_button_typography_font_family\":\"Montserrat\",\"eael_creative_button_typography_font_size\":{\"unit\":\"px\",\"size\":17,\"sizes\":[]},\"eael_creative_button_typography_font_weight\":\"600\",\"eael_creative_button_padding\":{\"unit\":\"px\",\"top\":\"12\",\"right\":\"35\",\"bottom\":\"12\",\"left\":\"35\",\"isLinked\":false}},\"elements\":[],\"widgetType\":\"eael-creative-button\"}],\"isInner\":true}],\"isInner\":true}],\"isInner\":false}],\"isInner\":false},{\"id\":\"14a8c5c8\",\"elType\":\"section\",\"settings\":{\"gap\":\"wider\",\"structure\":\"40\",\"margin\":{\"unit\":\"px\",\"top\":\"-100\",\"right\":0,\"bottom\":\"0\",\"left\":0,\"isLinked\":false}},\"elements\":[{\"id\":\"68f849a8\",\"elType\":\"column\",\"settings\":{\"_column_size\":25,\"_inline_size\":null,\"background_background\":\"classic\",\"background_color\":\"#EAB830\",\"margin\":{\"unit\":\"px\",\"top\":\"5\",\"right\":\"5\",\"bottom\":\"5\",\"left\":\"5\",\"isLinked\":true},\"border_radius\":{\"unit\":\"px\",\"top\":\"10\",\"right\":\"10\",\"bottom\":\"10\",\"left\":\"10\",\"isLinked\":true}},\"elements\":[{\"id\":\"53280db2\",\"elType\":\"widget\",\"settings\":{\"title_text\":\"5.000 + <br>\\nOnline Courses \\nActive\",\"description_text\":\"\",\"selected_icon\":{\"value\":\"fas fa-layer-group\",\"library\":\"fa-solid\"},\"primary_color\":\"#FFFFFF\",\"title_color\":\"#FFFFFF\",\"title_typography_typography\":\"custom\",\"title_typography_font_family\":\"Montserrat\",\"title_typography_font_weight\":\"600\",\"title_size\":\"h4\"},\"elements\":[],\"widgetType\":\"icon-box\"}],\"isInner\":false},{\"id\":\"49e490a5\",\"elType\":\"column\",\"settings\":{\"_column_size\":25,\"_inline_size\":null,\"background_background\":\"classic\",\"background_color\":\"#307AD5\",\"margin\":{\"unit\":\"px\",\"top\":\"5\",\"right\":\"5\",\"bottom\":\"5\",\"left\":\"5\",\"isLinked\":true},\"border_radius\":{\"unit\":\"px\",\"top\":\"10\",\"right\":\"10\",\"bottom\":\"10\",\"left\":\"10\",\"isLinked\":true}},\"elements\":[{\"id\":\"2d16c471\",\"elType\":\"widget\",\"settings\":{\"title_text\":\"20.000+ <br>\\nOnline Students\\n\",\"description_text\":\"\",\"selected_icon\":{\"value\":\"fab fa-studiovinari\",\"library\":\"fa-brands\"},\"primary_color\":\"#FFFFFF\",\"title_color\":\"#FFFFFF\",\"title_typography_typography\":\"custom\",\"title_typography_font_family\":\"Montserrat\",\"title_typography_font_weight\":\"600\",\"title_size\":\"h4\"},\"elements\":[],\"widgetType\":\"icon-box\"}],\"isInner\":false},{\"id\":\"5653151\",\"elType\":\"column\",\"settings\":{\"_column_size\":25,\"_inline_size\":null,\"background_background\":\"classic\",\"background_color\":\"#1EC1D9\",\"margin\":{\"unit\":\"px\",\"top\":\"5\",\"right\":\"5\",\"bottom\":\"5\",\"left\":\"5\",\"isLinked\":true},\"border_radius\":{\"unit\":\"px\",\"top\":\"10\",\"right\":\"10\",\"bottom\":\"10\",\"left\":\"10\",\"isLinked\":true}},\"elements\":[{\"id\":\"47eaf2a3\",\"elType\":\"widget\",\"settings\":{\"title_text\":\"Lifetime Support From Tutors\",\"description_text\":\"\",\"selected_icon\":{\"value\":\"fas fa-book\",\"library\":\"fa-solid\"},\"primary_color\":\"#FFFFFF\",\"title_color\":\"#FFFFFF\",\"title_typography_typography\":\"custom\",\"title_typography_font_family\":\"Montserrat\",\"title_typography_font_weight\":\"600\",\"title_size\":\"h4\"},\"elements\":[],\"widgetType\":\"icon-box\"}],\"isInner\":false},{\"id\":\"1541ff94\",\"elType\":\"column\",\"settings\":{\"_column_size\":25,\"_inline_size\":null,\"background_background\":\"classic\",\"background_color\":\"#10C45C\",\"margin\":{\"unit\":\"px\",\"top\":\"5\",\"right\":\"5\",\"bottom\":\"5\",\"left\":\"5\",\"isLinked\":true},\"border_radius\":{\"unit\":\"px\",\"top\":\"10\",\"right\":\"10\",\"bottom\":\"10\",\"left\":\"10\",\"isLinked\":true}},\"elements\":[{\"id\":\"13e3d3b7\",\"elType\":\"widget\",\"settings\":{\"title_text\":\"Free Document Access\",\"description_text\":\"\",\"primary_color\":\"#FFFFFF\",\"title_color\":\"#FFFFFF\",\"title_typography_typography\":\"custom\",\"title_typography_font_family\":\"Montserrat\",\"title_typography_font_weight\":\"600\",\"title_size\":\"h4\"},\"elements\":[],\"widgetType\":\"icon-box\"}],\"isInner\":false}],\"isInner\":false},{\"id\":\"1c0cd9a3\",\"elType\":\"section\",\"settings\":{\"margin\":{\"unit\":\"px\",\"top\":\"50\",\"right\":0,\"bottom\":\"0\",\"left\":0,\"isLinked\":false}},\"elements\":[{\"id\":\"4c7e4697\",\"elType\":\"column\",\"settings\":{\"_column_size\":100,\"_inline_size\":null},\"elements\":[{\"id\":\"76aafd3b\",\"elType\":\"widget\",\"settings\":{\"title\":\"Our main courses\\n\\n\\n\",\"title_color\":\"#273044\",\"typography_typography\":\"custom\",\"typography_font_family\":\"Montserrat\",\"typography_font_weight\":\"700\",\"typography_text_transform\":\"uppercase\"},\"elements\":[],\"widgetType\":\"heading\"}],\"isInner\":false}],\"isInner\":false},{\"id\":\"a2ebc45\",\"elType\":\"section\",\"settings\":{\"structure\":\"40\"},\"elements\":[{\"id\":\"660a5597\",\"elType\":\"column\",\"settings\":{\"_column_size\":25,\"_inline_size\":null},\"elements\":[{\"id\":\"43a73cbe\",\"elType\":\"widget\",\"settings\":{\"image\":{\"id\":204,\"url\":\"http:\\\/\\\/theme.wolfcoding.com\\\/education\\\/wp-content\\\/uploads\\\/sites\\\/2\\\/2021\\\/10\\\/inside_business_center_interior_foyer_lobby_entrance_architecture-593374.jpgd_.jpg\",\"alt\":\"\",\"source\":\"library\"},\"title_text\":\"English For Kids <br>From 4 - 8 Years Old\",\"description_text\":\"\",\"link\":{\"url\":\"#\",\"is_external\":\"on\",\"nofollow\":\"\",\"custom_attributes\":\"\"},\"image_size\":{\"unit\":\"%\",\"size\":100,\"sizes\":[]},\"title_color\":\"#273044\",\"title_typography_typography\":\"custom\",\"title_typography_font_family\":\"Montserrat\",\"title_typography_font_size\":{\"unit\":\"px\",\"size\":17,\"sizes\":[]},\"title_typography_font_weight\":\"600\",\"_padding\":{\"unit\":\"px\",\"top\":\"0\",\"right\":\"0\",\"bottom\":\"30\",\"left\":\"0\",\"isLinked\":false},\"_border_border\":\"solid\",\"_border_width\":{\"unit\":\"px\",\"top\":\"1\",\"right\":\"1\",\"bottom\":\"1\",\"left\":\"1\",\"isLinked\":true},\"_border_color\":\"#E0E0E0\",\"thumbnail_size\":\"medium\",\"thumbnail_custom_dimension\":{\"width\":\"\",\"height\":\"200\"}},\"elements\":[],\"widgetType\":\"image-box\"}],\"isInner\":false},{\"id\":\"768bbb05\",\"elType\":\"column\",\"settings\":{\"_column_size\":25,\"_inline_size\":null},\"elements\":[{\"id\":\"6d92066e\",\"elType\":\"widget\",\"settings\":{\"image\":{\"id\":202,\"url\":\"http:\\\/\\\/theme.wolfcoding.com\\\/education\\\/wp-content\\\/uploads\\\/sites\\\/2\\\/2021\\\/10\\\/business_center_exterior_architecture_glass_modern_corporate_building-593375.jpgd_.jpg\",\"alt\":\"\",\"source\":\"library\"},\"title_text\":\"Become An Expert In <br>Digital Marketing\",\"description_text\":\"\",\"link\":{\"url\":\"#\",\"is_external\":\"on\",\"nofollow\":\"\",\"custom_attributes\":\"\"},\"image_size\":{\"unit\":\"%\",\"size\":100,\"sizes\":[]},\"title_color\":\"#273044\",\"title_typography_typography\":\"custom\",\"title_typography_font_family\":\"Montserrat\",\"title_typography_font_size\":{\"unit\":\"px\",\"size\":17,\"sizes\":[]},\"title_typography_font_weight\":\"600\",\"_padding\":{\"unit\":\"px\",\"top\":\"0\",\"right\":\"0\",\"bottom\":\"30\",\"left\":\"0\",\"isLinked\":false},\"_border_border\":\"solid\",\"_border_width\":{\"unit\":\"px\",\"top\":\"1\",\"right\":\"1\",\"bottom\":\"1\",\"left\":\"1\",\"isLinked\":true},\"_border_color\":\"#E0E0E0\",\"thumbnail_size\":\"medium\",\"thumbnail_custom_dimension\":{\"width\":\"\",\"height\":\"200\"}},\"elements\":[],\"widgetType\":\"image-box\"}],\"isInner\":false},{\"id\":\"38d0ec2e\",\"elType\":\"column\",\"settings\":{\"_column_size\":25,\"_inline_size\":null},\"elements\":[{\"id\":\"1cb98bb9\",\"elType\":\"widget\",\"settings\":{\"image\":{\"id\":203,\"url\":\"http:\\\/\\\/theme.wolfcoding.com\\\/education\\\/wp-content\\\/uploads\\\/sites\\\/2\\\/2021\\\/10\\\/inside_business_center_interior_foyer_lobby_entrance_architecture-593373.jpgd_.jpg\",\"alt\":\"\",\"source\":\"library\"},\"title_text\":\"Facebook Advertising <br>For Beginners \",\"description_text\":\"\",\"link\":{\"url\":\"#\",\"is_external\":\"on\",\"nofollow\":\"\",\"custom_attributes\":\"\"},\"image_size\":{\"unit\":\"%\",\"size\":100,\"sizes\":[]},\"title_color\":\"#273044\",\"title_typography_typography\":\"custom\",\"title_typography_font_family\":\"Montserrat\",\"title_typography_font_size\":{\"unit\":\"px\",\"size\":17,\"sizes\":[]},\"title_typography_font_weight\":\"600\",\"_padding\":{\"unit\":\"px\",\"top\":\"0\",\"right\":\"0\",\"bottom\":\"30\",\"left\":\"0\",\"isLinked\":false},\"_border_border\":\"solid\",\"_border_width\":{\"unit\":\"px\",\"top\":\"1\",\"right\":\"1\",\"bottom\":\"1\",\"left\":\"1\",\"isLinked\":true},\"_border_color\":\"#E0E0E0\",\"thumbnail_size\":\"medium\"},\"elements\":[],\"widgetType\":\"image-box\"}],\"isInner\":false},{\"id\":\"3b593391\",\"elType\":\"column\",\"settings\":{\"_column_size\":25,\"_inline_size\":null},\"elements\":[{\"id\":\"2f727d9f\",\"elType\":\"widget\",\"settings\":{\"image\":{\"id\":205,\"url\":\"http:\\\/\\\/theme.wolfcoding.com\\\/education\\\/wp-content\\\/uploads\\\/sites\\\/2\\\/2021\\\/10\\\/modern_office_architecture_business_centre_glass_atrium_urban_office_modern-675610.jpgd_.jpg\",\"alt\":\"\",\"source\":\"library\"},\"title_text\":\"Google Adwords Expert<br>For Beginners\",\"description_text\":\"\",\"link\":{\"url\":\"#\",\"is_external\":\"on\",\"nofollow\":\"\",\"custom_attributes\":\"\"},\"image_size\":{\"unit\":\"%\",\"size\":100,\"sizes\":[]},\"title_color\":\"#273044\",\"title_typography_typography\":\"custom\",\"title_typography_font_family\":\"Montserrat\",\"title_typography_font_size\":{\"unit\":\"px\",\"size\":17,\"sizes\":[]},\"title_typography_font_weight\":\"600\",\"_padding\":{\"unit\":\"px\",\"top\":\"0\",\"right\":\"0\",\"bottom\":\"30\",\"left\":\"0\",\"isLinked\":false},\"_border_border\":\"solid\",\"_border_width\":{\"unit\":\"px\",\"top\":\"1\",\"right\":\"1\",\"bottom\":\"1\",\"left\":\"1\",\"isLinked\":true},\"_border_color\":\"#E0E0E0\",\"thumbnail_size\":\"medium\"},\"elements\":[],\"widgetType\":\"image-box\"}],\"isInner\":false}],\"isInner\":false},{\"id\":\"433c83f1\",\"elType\":\"section\",\"settings\":{\"structure\":\"40\"},\"elements\":[{\"id\":\"11fcddfc\",\"elType\":\"column\",\"settings\":{\"_column_size\":25,\"_inline_size\":null},\"elements\":[{\"id\":\"291b0fcb\",\"elType\":\"widget\",\"settings\":{\"image\":{\"id\":124,\"url\":\"http:\\\/\\\/theme.wolfcoding.com\\\/education\\\/wp-content\\\/uploads\\\/sites\\\/2\\\/2021\\\/09\\\/tyler-nix-W9rOPHK-RQ-unsplash.jpg\",\"alt\":\"\",\"source\":\"library\"},\"title_text\":\"Strategy Law And Organization Foundation\",\"description_text\":\"\",\"link\":{\"url\":\"#\",\"is_external\":\"on\",\"nofollow\":\"\",\"custom_attributes\":\"\"},\"image_size\":{\"unit\":\"%\",\"size\":100,\"sizes\":[]},\"title_color\":\"#273044\",\"title_typography_typography\":\"custom\",\"title_typography_font_family\":\"Montserrat\",\"title_typography_font_size\":{\"unit\":\"px\",\"size\":17,\"sizes\":[]},\"title_typography_font_weight\":\"600\",\"_padding\":{\"unit\":\"px\",\"top\":\"0\",\"right\":\"0\",\"bottom\":\"30\",\"left\":\"0\",\"isLinked\":false},\"_border_border\":\"solid\",\"_border_width\":{\"unit\":\"px\",\"top\":\"1\",\"right\":\"1\",\"bottom\":\"1\",\"left\":\"1\",\"isLinked\":true},\"_border_color\":\"#E0E0E0\",\"thumbnail_size\":\"medium\"},\"elements\":[],\"widgetType\":\"image-box\"}],\"isInner\":false},{\"id\":\"18349d6d\",\"elType\":\"column\",\"settings\":{\"_column_size\":25,\"_inline_size\":null},\"elements\":[{\"id\":\"792c08d7\",\"elType\":\"widget\",\"settings\":{\"image\":{\"id\":125,\"url\":\"http:\\\/\\\/theme.wolfcoding.com\\\/education\\\/wp-content\\\/uploads\\\/sites\\\/2\\\/2021\\\/09\\\/pickawood-6tAIO3pxde4-unsplash.jpg\",\"alt\":\"\",\"source\":\"library\"},\"title_text\":\"Become An Awesome Product Managers\",\"description_text\":\"\",\"link\":{\"url\":\"#\",\"is_external\":\"on\",\"nofollow\":\"\",\"custom_attributes\":\"\"},\"image_size\":{\"unit\":\"%\",\"size\":100,\"sizes\":[]},\"title_color\":\"#273044\",\"title_typography_typography\":\"custom\",\"title_typography_font_family\":\"Montserrat\",\"title_typography_font_size\":{\"unit\":\"px\",\"size\":17,\"sizes\":[]},\"title_typography_font_weight\":\"600\",\"_padding\":{\"unit\":\"px\",\"top\":\"0\",\"right\":\"0\",\"bottom\":\"30\",\"left\":\"0\",\"isLinked\":false},\"_border_border\":\"solid\",\"_border_width\":{\"unit\":\"px\",\"top\":\"1\",\"right\":\"1\",\"bottom\":\"1\",\"left\":\"1\",\"isLinked\":true},\"_border_color\":\"#E0E0E0\",\"thumbnail_size\":\"medium\"},\"elements\":[],\"widgetType\":\"image-box\"}],\"isInner\":false},{\"id\":\"31f2b205\",\"elType\":\"column\",\"settings\":{\"_column_size\":25,\"_inline_size\":null},\"elements\":[{\"id\":\"3f477109\",\"elType\":\"widget\",\"settings\":{\"image\":{\"id\":129,\"url\":\"http:\\\/\\\/theme.wolfcoding.com\\\/education\\\/wp-content\\\/uploads\\\/sites\\\/2\\\/2021\\\/09\\\/oleg-laptev-x6kTRrrjhuo-unsplash.jpg\",\"alt\":\"\",\"source\":\"library\"},\"title_text\":\"Creative Writing By Storytelling \",\"description_text\":\"\",\"link\":{\"url\":\"#\",\"is_external\":\"on\",\"nofollow\":\"\",\"custom_attributes\":\"\"},\"image_size\":{\"unit\":\"%\",\"size\":100,\"sizes\":[]},\"title_color\":\"#273044\",\"title_typography_typography\":\"custom\",\"title_typography_font_family\":\"Montserrat\",\"title_typography_font_size\":{\"unit\":\"px\",\"size\":17,\"sizes\":[]},\"title_typography_font_weight\":\"600\",\"_padding\":{\"unit\":\"px\",\"top\":\"0\",\"right\":\"0\",\"bottom\":\"30\",\"left\":\"0\",\"isLinked\":false},\"_border_border\":\"solid\",\"_border_width\":{\"unit\":\"px\",\"top\":\"1\",\"right\":\"1\",\"bottom\":\"1\",\"left\":\"1\",\"isLinked\":true},\"_border_color\":\"#E0E0E0\",\"thumbnail_size\":\"medium\"},\"elements\":[],\"widgetType\":\"image-box\"}],\"isInner\":false},{\"id\":\"7b6cea7e\",\"elType\":\"column\",\"settings\":{\"_column_size\":25,\"_inline_size\":null},\"elements\":[{\"id\":\"4e6f73ef\",\"elType\":\"widget\",\"settings\":{\"image\":{\"id\":130,\"url\":\"http:\\\/\\\/theme.wolfcoding.com\\\/education\\\/wp-content\\\/uploads\\\/sites\\\/2\\\/2021\\\/09\\\/mueen-agherdien-t1U-dVo7NBo-unsplash.jpg\",\"alt\":\"\",\"source\":\"library\"},\"title_text\":\"Become An Expert In  Digital Marketing \\u200b\",\"description_text\":\"\",\"link\":{\"url\":\"#\",\"is_external\":\"on\",\"nofollow\":\"\",\"custom_attributes\":\"\"},\"image_size\":{\"unit\":\"%\",\"size\":100,\"sizes\":[]},\"title_color\":\"#273044\",\"title_typography_typography\":\"custom\",\"title_typography_font_family\":\"Montserrat\",\"title_typography_font_size\":{\"unit\":\"px\",\"size\":17,\"sizes\":[]},\"title_typography_font_weight\":\"600\",\"_padding\":{\"unit\":\"px\",\"top\":\"0\",\"right\":\"0\",\"bottom\":\"30\",\"left\":\"0\",\"isLinked\":false},\"_border_border\":\"solid\",\"_border_width\":{\"unit\":\"px\",\"top\":\"1\",\"right\":\"1\",\"bottom\":\"1\",\"left\":\"1\",\"isLinked\":true},\"_border_color\":\"#E0E0E0\",\"thumbnail_size\":\"medium\"},\"elements\":[],\"widgetType\":\"image-box\"}],\"isInner\":false}],\"isInner\":false},{\"id\":\"79959d14\",\"elType\":\"section\",\"settings\":{\"background_background\":\"classic\",\"background_color\":\"#0088CC\",\"margin\":{\"unit\":\"px\",\"top\":\"30\",\"right\":0,\"bottom\":\"30\",\"left\":0,\"isLinked\":false},\"padding\":{\"unit\":\"px\",\"top\":\"50\",\"right\":\"0\",\"bottom\":\"50\",\"left\":\"0\",\"isLinked\":false}},\"elements\":[{\"id\":\"ea0bbc4\",\"elType\":\"column\",\"settings\":{\"_column_size\":100,\"_inline_size\":null},\"elements\":[{\"id\":\"7ce3bb7e\",\"elType\":\"widget\",\"settings\":{\"title\":\"Why choose Us\",\"align\":\"center\",\"title_color\":\"#FFFFFF\",\"typography_typography\":\"custom\",\"typography_font_family\":\"Montserrat\",\"typography_font_weight\":\"600\",\"_margin\":{\"unit\":\"px\",\"top\":\"0\",\"right\":\"0\",\"bottom\":\"0\",\"left\":\"0\",\"isLinked\":false},\"typography_text_transform\":\"uppercase\"},\"elements\":[],\"widgetType\":\"heading\"},{\"id\":\"4790954e\",\"elType\":\"section\",\"settings\":{\"structure\":\"30\"},\"elements\":[{\"id\":\"a951221\",\"elType\":\"column\",\"settings\":{\"_column_size\":33,\"_inline_size\":null,\"padding\":{\"unit\":\"px\",\"top\":\"30\",\"right\":\"30\",\"bottom\":\"30\",\"left\":\"30\",\"isLinked\":true}},\"elements\":[{\"id\":\"15749a10\",\"elType\":\"widget\",\"settings\":{\"title_text\":\"Professional Trainers\",\"description_text\":\"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et\",\"primary_color\":\"#FFFFFF\",\"title_color\":\"#FFFFFF\",\"description_color\":\"#FFFFFF\",\"selected_icon\":{\"value\":\"fas fa-user-cog\",\"library\":\"fa-solid\"},\"title_typography_typography\":\"custom\",\"title_typography_font_family\":\"Montserrat\",\"title_typography_font_weight\":\"600\",\"description_typography_typography\":\"custom\",\"description_typography_font_family\":\"Montserrat\",\"description_typography_font_weight\":\"400\"},\"elements\":[],\"widgetType\":\"icon-box\"}],\"isInner\":true},{\"id\":\"15e82d4e\",\"elType\":\"column\",\"settings\":{\"_column_size\":33,\"_inline_size\":null,\"padding\":{\"unit\":\"px\",\"top\":\"30\",\"right\":\"30\",\"bottom\":\"30\",\"left\":\"30\",\"isLinked\":true}},\"elements\":[{\"id\":\"d1f83e0\",\"elType\":\"widget\",\"settings\":{\"title_text\":\"24\\\/7 Support\",\"description_text\":\"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore\",\"primary_color\":\"#FFFFFF\",\"title_color\":\"#FFFFFF\",\"description_color\":\"#FFFFFF\",\"selected_icon\":{\"value\":\"fab fa-accusoft\",\"library\":\"fa-brands\"},\"title_typography_typography\":\"custom\",\"title_typography_font_family\":\"Montserrat\",\"title_typography_font_weight\":\"600\",\"description_typography_typography\":\"custom\",\"description_typography_font_family\":\"Montserrat\",\"description_typography_font_weight\":\"400\"},\"elements\":[],\"widgetType\":\"icon-box\"}],\"isInner\":true},{\"id\":\"65c373c9\",\"elType\":\"column\",\"settings\":{\"_column_size\":33,\"_inline_size\":null,\"padding\":{\"unit\":\"px\",\"top\":\"30\",\"right\":\"30\",\"bottom\":\"30\",\"left\":\"30\",\"isLinked\":true}},\"elements\":[{\"id\":\"3f41a31d\",\"elType\":\"widget\",\"settings\":{\"title_text\":\"Online Everywhere\",\"description_text\":\"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore\",\"primary_color\":\"#FFFFFF\",\"title_color\":\"#FFFFFF\",\"description_color\":\"#FFFFFF\",\"selected_icon\":{\"value\":\"fas fa-truck-loading\",\"library\":\"fa-solid\"},\"title_typography_typography\":\"custom\",\"title_typography_font_family\":\"Montserrat\",\"title_typography_font_weight\":\"600\",\"description_typography_typography\":\"custom\",\"description_typography_font_family\":\"Montserrat\",\"description_typography_font_weight\":\"400\"},\"elements\":[],\"widgetType\":\"icon-box\"}],\"isInner\":true}],\"isInner\":true}],\"isInner\":false}],\"isInner\":false},{\"id\":\"11278746\",\"elType\":\"section\",\"settings\":{\"layout\":\"full_width\",\"margin\":{\"unit\":\"px\",\"top\":\"0\",\"right\":0,\"bottom\":\"50\",\"left\":0,\"isLinked\":false}},\"elements\":[{\"id\":\"71c30d1b\",\"elType\":\"column\",\"settings\":{\"_column_size\":100,\"_inline_size\":null},\"elements\":[{\"id\":\"7e7d05e5\",\"elType\":\"widget\",\"settings\":{\"title\":\"BEST CATEGORY\",\"align\":\"center\",\"title_color\":\"#273044\",\"typography_typography\":\"custom\",\"typography_font_family\":\"Montserrat\",\"typography_font_weight\":\"700\",\"typography_text_transform\":\"uppercase\",\"typography_line_height\":{\"unit\":\"px\",\"size\":24,\"sizes\":[]},\"_margin\":{\"unit\":\"px\",\"top\":\"0\",\"right\":\"0\",\"bottom\":\"0\",\"left\":\"0\",\"isLinked\":true},\"_padding\":{\"unit\":\"px\",\"top\":\"0\",\"right\":\"0\",\"bottom\":\"0\",\"left\":\"0\",\"isLinked\":true}},\"elements\":[],\"widgetType\":\"heading\"},{\"id\":\"d26daee\",\"elType\":\"widget\",\"settings\":{\"title\":\"Contrary to popular belief, Lorem Ipsum is not simply random text\",\"header_size\":\"span\",\"align\":\"center\",\"title_color\":\"#273044\",\"typography_typography\":\"custom\",\"typography_font_family\":\"Montserrat\",\"typography_font_weight\":\"600\",\"typography_text_transform\":\"capitalize\",\"_margin\":{\"unit\":\"px\",\"top\":\"0\",\"right\":\"0\",\"bottom\":\"0\",\"left\":\"0\",\"isLinked\":true},\"_padding\":{\"unit\":\"px\",\"top\":\"0\",\"right\":\"0\",\"bottom\":\"0\",\"left\":\"0\",\"isLinked\":true}},\"elements\":[],\"widgetType\":\"heading\"},{\"id\":\"58f26967\",\"elType\":\"section\",\"settings\":{\"structure\":\"30\"},\"elements\":[{\"id\":\"50d54c04\",\"elType\":\"column\",\"settings\":{\"_column_size\":33,\"_inline_size\":null},\"elements\":[{\"id\":\"4d89ab1c\",\"elType\":\"widget\",\"settings\":{\"selected_icon\":{\"value\":\"far fa-check-square\",\"library\":\"fa-regular\"},\"title_text\":\"3D Printing Concept\",\"description_text\":\"\",\"position\":\"left\",\"primary_color\":\"#EAB830\",\"hover_primary_color\":\"#FFFFFF\",\"text_align\":\"left\",\"content_vertical_alignment\":\"middle\",\"title_color\":\"#2C75E4\",\"title_typography_typography\":\"custom\",\"title_typography_font_family\":\"Montserrat\",\"title_typography_font_weight\":\"600\",\"title_typography_text_transform\":\"uppercase\",\"_padding\":{\"unit\":\"px\",\"top\":\"10\",\"right\":\"20\",\"bottom\":\"10\",\"left\":\"20\",\"isLinked\":false},\"_background_hover_color\":\"#2C75E4\",\"_border_border\":\"solid\",\"_border_width\":{\"unit\":\"px\",\"top\":\"2\",\"right\":\"2\",\"bottom\":\"2\",\"left\":\"2\",\"isLinked\":true},\"_border_color\":\"#EEF0F6\",\"_border_radius\":{\"unit\":\"px\",\"top\":\"5\",\"right\":\"5\",\"bottom\":\"5\",\"left\":\"5\",\"isLinked\":true},\"title_size\":\"h5\"},\"elements\":[],\"widgetType\":\"icon-box\"}],\"isInner\":true},{\"id\":\"65295293\",\"elType\":\"column\",\"settings\":{\"_column_size\":33,\"_inline_size\":null},\"elements\":[{\"id\":\"785bdb71\",\"elType\":\"widget\",\"settings\":{\"selected_icon\":{\"value\":\"fas fa-stream\",\"library\":\"fa-solid\"},\"title_text\":\"Architectural\",\"description_text\":\"\",\"position\":\"left\",\"primary_color\":\"#EAB830\",\"hover_primary_color\":\"#FFFFFF\",\"text_align\":\"left\",\"content_vertical_alignment\":\"middle\",\"title_color\":\"#2C75E4\",\"title_typography_typography\":\"custom\",\"title_typography_font_family\":\"Montserrat\",\"title_typography_font_weight\":\"600\",\"title_typography_text_transform\":\"uppercase\",\"_padding\":{\"unit\":\"px\",\"top\":\"10\",\"right\":\"20\",\"bottom\":\"10\",\"left\":\"20\",\"isLinked\":false},\"_background_hover_color\":\"#2C75E4\",\"_border_border\":\"solid\",\"_border_width\":{\"unit\":\"px\",\"top\":\"2\",\"right\":\"2\",\"bottom\":\"2\",\"left\":\"2\",\"isLinked\":true},\"_border_color\":\"#EEF0F6\",\"_border_radius\":{\"unit\":\"px\",\"top\":\"5\",\"right\":\"5\",\"bottom\":\"5\",\"left\":\"5\",\"isLinked\":true},\"title_size\":\"h5\"},\"elements\":[],\"widgetType\":\"icon-box\"}],\"isInner\":true},{\"id\":\"bb503b2\",\"elType\":\"column\",\"settings\":{\"_column_size\":33,\"_inline_size\":null},\"elements\":[{\"id\":\"5e60a5c2\",\"elType\":\"widget\",\"settings\":{\"selected_icon\":{\"value\":\"fas fa-street-view\",\"library\":\"fa-solid\"},\"title_text\":\"Art & Design\",\"description_text\":\"\",\"position\":\"left\",\"primary_color\":\"#EAB830\",\"hover_primary_color\":\"#FFFFFF\",\"text_align\":\"left\",\"content_vertical_alignment\":\"middle\",\"title_color\":\"#2C75E4\",\"title_typography_typography\":\"custom\",\"title_typography_font_family\":\"Montserrat\",\"title_typography_font_weight\":\"600\",\"title_typography_text_transform\":\"uppercase\",\"_padding\":{\"unit\":\"px\",\"top\":\"10\",\"right\":\"20\",\"bottom\":\"10\",\"left\":\"20\",\"isLinked\":false},\"_background_hover_color\":\"#2C75E4\",\"_border_border\":\"solid\",\"_border_width\":{\"unit\":\"px\",\"top\":\"2\",\"right\":\"2\",\"bottom\":\"2\",\"left\":\"2\",\"isLinked\":true},\"_border_color\":\"#EEF0F6\",\"_border_radius\":{\"unit\":\"px\",\"top\":\"5\",\"right\":\"5\",\"bottom\":\"5\",\"left\":\"5\",\"isLinked\":true},\"title_size\":\"h5\"},\"elements\":[],\"widgetType\":\"icon-box\"}],\"isInner\":true}],\"isInner\":true},{\"id\":\"470b7903\",\"elType\":\"section\",\"settings\":{\"structure\":\"30\"},\"elements\":[{\"id\":\"4dfd3fff\",\"elType\":\"column\",\"settings\":{\"_column_size\":33,\"_inline_size\":null},\"elements\":[{\"id\":\"74c75cdc\",\"elType\":\"widget\",\"settings\":{\"selected_icon\":{\"value\":\"fas fa-subway\",\"library\":\"fa-solid\"},\"title_text\":\"Audio & Music\",\"description_text\":\"\",\"position\":\"left\",\"primary_color\":\"#EAB830\",\"hover_primary_color\":\"#FFFFFF\",\"text_align\":\"left\",\"content_vertical_alignment\":\"middle\",\"title_color\":\"#2C75E4\",\"title_typography_typography\":\"custom\",\"title_typography_font_family\":\"Montserrat\",\"title_typography_font_weight\":\"600\",\"title_typography_text_transform\":\"uppercase\",\"_padding\":{\"unit\":\"px\",\"top\":\"10\",\"right\":\"20\",\"bottom\":\"10\",\"left\":\"20\",\"isLinked\":false},\"_background_hover_color\":\"#2C75E4\",\"_border_border\":\"solid\",\"_border_width\":{\"unit\":\"px\",\"top\":\"2\",\"right\":\"2\",\"bottom\":\"2\",\"left\":\"2\",\"isLinked\":true},\"_border_color\":\"#EEF0F6\",\"_border_radius\":{\"unit\":\"px\",\"top\":\"5\",\"right\":\"5\",\"bottom\":\"5\",\"left\":\"5\",\"isLinked\":true},\"title_size\":\"h5\"},\"elements\":[],\"widgetType\":\"icon-box\"}],\"isInner\":true},{\"id\":\"5672d96\",\"elType\":\"column\",\"settings\":{\"_column_size\":33,\"_inline_size\":null},\"elements\":[{\"id\":\"45c02c05\",\"elType\":\"widget\",\"settings\":{\"selected_icon\":{\"value\":\"fas fa-tools\",\"library\":\"fa-solid\"},\"title_text\":\"Communication\",\"description_text\":\"\",\"position\":\"left\",\"primary_color\":\"#EAB830\",\"hover_primary_color\":\"#FFFFFF\",\"text_align\":\"left\",\"content_vertical_alignment\":\"middle\",\"title_color\":\"#2C75E4\",\"title_typography_typography\":\"custom\",\"title_typography_font_family\":\"Montserrat\",\"title_typography_font_weight\":\"600\",\"title_typography_text_transform\":\"uppercase\",\"_padding\":{\"unit\":\"px\",\"top\":\"10\",\"right\":\"20\",\"bottom\":\"10\",\"left\":\"20\",\"isLinked\":false},\"_background_hover_color\":\"#2C75E4\",\"_border_border\":\"solid\",\"_border_width\":{\"unit\":\"px\",\"top\":\"2\",\"right\":\"2\",\"bottom\":\"2\",\"left\":\"2\",\"isLinked\":true},\"_border_color\":\"#EEF0F6\",\"_border_radius\":{\"unit\":\"px\",\"top\":\"5\",\"right\":\"5\",\"bottom\":\"5\",\"left\":\"5\",\"isLinked\":true},\"title_size\":\"h5\"},\"elements\":[],\"widgetType\":\"icon-box\"}],\"isInner\":true},{\"id\":\"1b58caec\",\"elType\":\"column\",\"settings\":{\"_column_size\":33,\"_inline_size\":null},\"elements\":[{\"id\":\"1e97cf53\",\"elType\":\"widget\",\"settings\":{\"selected_icon\":{\"value\":\"fas fa-volleyball-ball\",\"library\":\"fa-solid\"},\"title_text\":\"Conceptual Art\",\"description_text\":\"\",\"position\":\"left\",\"primary_color\":\"#EAB830\",\"hover_primary_color\":\"#FFFFFF\",\"text_align\":\"left\",\"content_vertical_alignment\":\"middle\",\"title_color\":\"#2C75E4\",\"title_typography_typography\":\"custom\",\"title_typography_font_family\":\"Montserrat\",\"title_typography_font_weight\":\"600\",\"title_typography_text_transform\":\"uppercase\",\"_padding\":{\"unit\":\"px\",\"top\":\"10\",\"right\":\"20\",\"bottom\":\"10\",\"left\":\"20\",\"isLinked\":false},\"_background_hover_color\":\"#2C75E4\",\"_border_border\":\"solid\",\"_border_width\":{\"unit\":\"px\",\"top\":\"2\",\"right\":\"2\",\"bottom\":\"2\",\"left\":\"2\",\"isLinked\":true},\"_border_color\":\"#EEF0F6\",\"_border_radius\":{\"unit\":\"px\",\"top\":\"5\",\"right\":\"5\",\"bottom\":\"5\",\"left\":\"5\",\"isLinked\":true},\"title_size\":\"h5\"},\"elements\":[],\"widgetType\":\"icon-box\"}],\"isInner\":true}],\"isInner\":true},{\"id\":\"6167519c\",\"elType\":\"section\",\"settings\":{\"structure\":\"30\"},\"elements\":[{\"id\":\"6984048\",\"elType\":\"column\",\"settings\":{\"_column_size\":33,\"_inline_size\":null},\"elements\":[{\"id\":\"57663d57\",\"elType\":\"widget\",\"settings\":{\"selected_icon\":{\"value\":\"fas fa-star-of-david\",\"library\":\"fa-solid\"},\"title_text\":\"Development\",\"description_text\":\"\",\"position\":\"left\",\"primary_color\":\"#EAB830\",\"hover_primary_color\":\"#FFFFFF\",\"text_align\":\"left\",\"content_vertical_alignment\":\"middle\",\"title_color\":\"#2C75E4\",\"title_typography_typography\":\"custom\",\"title_typography_font_family\":\"Montserrat\",\"title_typography_font_weight\":\"600\",\"title_typography_text_transform\":\"uppercase\",\"_padding\":{\"unit\":\"px\",\"top\":\"10\",\"right\":\"20\",\"bottom\":\"10\",\"left\":\"20\",\"isLinked\":false},\"_background_hover_color\":\"#2C75E4\",\"_border_border\":\"solid\",\"_border_width\":{\"unit\":\"px\",\"top\":\"2\",\"right\":\"2\",\"bottom\":\"2\",\"left\":\"2\",\"isLinked\":true},\"_border_color\":\"#EEF0F6\",\"_border_radius\":{\"unit\":\"px\",\"top\":\"5\",\"right\":\"5\",\"bottom\":\"5\",\"left\":\"5\",\"isLinked\":true},\"title_size\":\"h5\"},\"elements\":[],\"widgetType\":\"icon-box\"}],\"isInner\":true},{\"id\":\"7b62e005\",\"elType\":\"column\",\"settings\":{\"_column_size\":33,\"_inline_size\":null},\"elements\":[{\"id\":\"5312aaa9\",\"elType\":\"widget\",\"settings\":{\"selected_icon\":{\"value\":\"fas fa-hdd\",\"library\":\"fa-solid\"},\"title_text\":\"Material Design\",\"description_text\":\"\",\"position\":\"left\",\"primary_color\":\"#EAB830\",\"hover_primary_color\":\"#FFFFFF\",\"text_align\":\"left\",\"content_vertical_alignment\":\"middle\",\"title_color\":\"#2C75E4\",\"title_typography_typography\":\"custom\",\"title_typography_font_family\":\"Montserrat\",\"title_typography_font_weight\":\"600\",\"title_typography_text_transform\":\"uppercase\",\"_padding\":{\"unit\":\"px\",\"top\":\"10\",\"right\":\"20\",\"bottom\":\"10\",\"left\":\"20\",\"isLinked\":false},\"_background_hover_color\":\"#2C75E4\",\"_border_border\":\"solid\",\"_border_width\":{\"unit\":\"px\",\"top\":\"2\",\"right\":\"2\",\"bottom\":\"2\",\"left\":\"2\",\"isLinked\":true},\"_border_color\":\"#EEF0F6\",\"_border_radius\":{\"unit\":\"px\",\"top\":\"5\",\"right\":\"5\",\"bottom\":\"5\",\"left\":\"5\",\"isLinked\":true},\"title_size\":\"h5\"},\"elements\":[],\"widgetType\":\"icon-box\"}],\"isInner\":true},{\"id\":\"62e069f3\",\"elType\":\"column\",\"settings\":{\"_column_size\":33,\"_inline_size\":null},\"elements\":[{\"id\":\"1a146da8\",\"elType\":\"widget\",\"settings\":{\"selected_icon\":{\"value\":\"fas fa-sink\",\"library\":\"fa-solid\"},\"title_text\":\"Photography\",\"description_text\":\"\",\"position\":\"left\",\"primary_color\":\"#EAB830\",\"hover_primary_color\":\"#FFFFFF\",\"text_align\":\"left\",\"content_vertical_alignment\":\"middle\",\"title_color\":\"#2C75E4\",\"title_typography_typography\":\"custom\",\"title_typography_font_family\":\"Montserrat\",\"title_typography_font_weight\":\"600\",\"title_typography_text_transform\":\"uppercase\",\"_padding\":{\"unit\":\"px\",\"top\":\"10\",\"right\":\"20\",\"bottom\":\"10\",\"left\":\"20\",\"isLinked\":false},\"_background_hover_color\":\"#2C75E4\",\"_border_border\":\"solid\",\"_border_width\":{\"unit\":\"px\",\"top\":\"2\",\"right\":\"2\",\"bottom\":\"2\",\"left\":\"2\",\"isLinked\":true},\"_border_color\":\"#EEF0F6\",\"_border_radius\":{\"unit\":\"px\",\"top\":\"5\",\"right\":\"5\",\"bottom\":\"5\",\"left\":\"5\",\"isLinked\":true},\"title_size\":\"h5\"},\"elements\":[],\"widgetType\":\"icon-box\"}],\"isInner\":true}],\"isInner\":true}],\"isInner\":false}],\"isInner\":false},{\"id\":\"76e73ed2\",\"elType\":\"section\",\"settings\":{\"full_width\":\"boxed\",\"el_class\":\"sbc\",\"css\":\".vc_custom_1536750043588{margin-bottom: 0px !important;}\",\"css_classes\":\"sbc\",\"margin\":{\"unit\":\"px\",\"top\":\"0\",\"left\":\"0\",\"right\":\"0\",\"bottom\":\"0\",\"isLinked\":false,\"units\":\"px\"},\"padding\":{\"unit\":\"px\",\"top\":\"50\",\"left\":\"0\",\"right\":\"0\",\"bottom\":\"50\",\"isLinked\":false},\"background_background\":\"classic\",\"background_repeat\":\"no-repeat\",\"background_size\":\"cover\",\"border_radius\":{\"unit\":\"px\",\"top\":\"0\",\"left\":\"0\",\"right\":\"0\",\"bottom\":\"0\"},\"border_width\":{\"unit\":\"px\",\"top\":\"0\",\"left\":\"0\",\"right\":\"0\",\"bottom\":\"0\",\"isLinked\":false},\"stretch_section\":\"section-stretched\",\"background_color\":\"#2C75E4\"},\"elements\":[{\"id\":\"1715d419\",\"elType\":\"column\",\"settings\":{\"_column_size\":100,\"offset\":\"vc_col-lg-7 vc_col-md-7\",\"_inline_size_tablet\":100,\"_inline_size\":70},\"elements\":[{\"id\":\"6dcb463d\",\"elType\":\"widget\",\"settings\":{\"title\":\"We are hear to listen to you\",\"header_size\":\"h3\",\"title_color\":\"#FFFFFF\",\"typography_typography\":\"custom\",\"typography_font_family\":\"Montserrat\",\"typography_font_weight\":\"600\"},\"elements\":[],\"widgetType\":\"heading\"},{\"id\":\"6db0902\",\"elType\":\"widget\",\"settings\":{\"title\":\"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\",\"header_size\":\"p\",\"title_color\":\"#FFFFFF\",\"typography_typography\":\"custom\",\"typography_font_family\":\"Montserrat\",\"typography_font_weight\":\"400\",\"typography_line_height\":{\"unit\":\"px\",\"size\":19,\"sizes\":[]}},\"elements\":[],\"widgetType\":\"heading\"}],\"isInner\":false},{\"id\":\"5f0481c5\",\"elType\":\"column\",\"settings\":{\"_column_size\":100,\"offset\":\"vc_col-lg-5 vc_col-md-5\",\"_inline_size_tablet\":100,\"_inline_size\":29,\"content_position\":\"center\"},\"elements\":[{\"id\":\"73cd494\",\"elType\":\"widget\",\"settings\":{\"creative_button_text\":\"Register Now\",\"creative_button_secondary_text\":\"Go!\",\"creative_button_effect\":\"eael-creative-button--winona\",\"eael_creative_button_background_color\":\"#273044\",\"eael_creative_button_alignment\":\"flex-end\"},\"elements\":[],\"widgetType\":\"eael-creative-button\"}],\"isInner\":false}],\"isInner\":false},{\"id\":\"4dc6dbfa\",\"elType\":\"section\",\"settings\":{\"padding\":{\"unit\":\"px\",\"top\":\"50\",\"right\":\"0\",\"bottom\":\"50\",\"left\":\"0\",\"isLinked\":false}},\"elements\":[{\"id\":\"5a9cbb4b\",\"elType\":\"column\",\"settings\":{\"_column_size\":100,\"_inline_size\":null},\"elements\":[{\"id\":\"2ba6a878\",\"elType\":\"widget\",\"settings\":{\"title\":\"Discover New Knowledge With Us\",\"align\":\"center\",\"title_color\":\"#273044\",\"typography_typography\":\"custom\",\"typography_font_family\":\"Montserrat\",\"typography_font_weight\":\"600\"},\"elements\":[],\"widgetType\":\"heading\"}],\"isInner\":false}],\"isInner\":false},{\"id\":\"19ca8e0\",\"elType\":\"section\",\"settings\":{\"margin\":{\"unit\":\"px\",\"top\":\"0\",\"right\":0,\"bottom\":\"50\",\"left\":0,\"isLinked\":false}},\"elements\":[{\"id\":\"994670b\",\"elType\":\"column\",\"settings\":{\"_column_size\":100,\"_inline_size\":null},\"elements\":[{\"id\":\"83e93b5\",\"elType\":\"widget\",\"settings\":{\"posts_per_page\":3,\"eael_post_grid_columns\":\"eael-col-3\",\"layout_mode\":\"grid\",\"show_load_more_text\":\"Load More\",\"excerpt_expanison_indicator\":\"...\",\"eael_read_more_text\":\"Read More\",\"read_more_button_text\":\"Read More\"},\"elements\":[],\"widgetType\":\"eael-post-grid\"}],\"isInner\":false}],\"isInner\":false}]",
+        "_elementor_page_assets": "a:0:{}",
+        "_oembed_d7abe3b2104dfa556628664c15cbeb02": "<iframe title=\"Ocanus - Tr\u1ee3 Th\u1ee7 Ti\u1ebfng Anh \u0110\u1eafc L\u1ef1c\" width=\"1170\" height=\"658\" src=\"https:\/\/www.youtube.com\/embed\/wJbzfZ6ecBU?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+        "_oembed_time_d7abe3b2104dfa556628664c15cbeb02": "1632558410",
+        "_edit_last": "1",
+        "_elementor_controls_usage": "a:7:{s:7:\"heading\";a:3:{s:5:\"count\";i:9;s:15:\"control_percent\";i:4;s:8:\"controls\";a:3:{s:7:\"content\";a:1:{s:13:\"section_title\";a:3:{s:5:\"title\";i:9;s:5:\"align\";i:6;s:11:\"header_size\";i:5;}}s:5:\"style\";a:1:{s:19:\"section_title_style\";a:6:{s:11:\"title_color\";i:9;s:21:\"typography_typography\";i:9;s:22:\"typography_font_family\";i:9;s:25:\"typography_text_transform\";i:5;s:22:\"typography_font_weight\";i:8;s:22:\"typography_line_height\";i:3;}}s:8:\"advanced\";a:1:{s:14:\"_section_style\";a:2:{s:7:\"_margin\";i:3;s:8:\"_padding\";i:2;}}}}s:20:\"eael-creative-button\";a:3:{s:5:\"count\";i:2;s:15:\"control_percent\";i:2;s:8:\"controls\";a:2:{s:7:\"content\";a:1:{s:36:\"eael_section_creative_button_content\";a:1:{s:20:\"creative_button_text\";i:2;}}s:5:\"style\";a:1:{s:37:\"eael_section_creative_button_settings\";a:13:{s:37:\"eael_creative_button_background_color\";i:2;s:34:\"eael_creative_button_border_border\";i:1;s:33:\"eael_creative_button_border_width\";i:1;s:34:\"eael_creative_button_border_radius\";i:1;s:43:\"eael_creative_button_hover_background_color\";i:1;s:39:\"eael_creative_button_hover_border_color\";i:1;s:30:\"eael_creative_button_alignment\";i:2;s:42:\"eael_creative_button_typography_typography\";i:1;s:43:\"eael_creative_button_typography_font_family\";i:1;s:41:\"eael_creative_button_typography_font_size\";i:1;s:43:\"eael_creative_button_typography_font_weight\";i:1;s:28:\"eael_creative_button_padding\";i:1;s:22:\"creative_button_effect\";i:1;}}}}s:6:\"column\";a:3:{s:5:\"count\";i:33;s:15:\"control_percent\";i:0;s:8:\"controls\";a:3:{s:6:\"layout\";a:1:{s:6:\"layout\";a:2:{s:12:\"_inline_size\";i:33;s:16:\"content_position\";i:1;}}s:5:\"style\";a:2:{s:13:\"section_style\";a:2:{s:21:\"background_background\";i:4;s:16:\"background_color\";i:4;}s:14:\"section_border\";a:1:{s:13:\"border_radius\";i:4;}}s:8:\"advanced\";a:1:{s:16:\"section_advanced\";a:2:{s:6:\"margin\";i:4;s:7:\"padding\";i:3;}}}}s:7:\"section\";a:3:{s:5:\"count\";i:15;s:15:\"control_percent\";i:0;s:8:\"controls\";a:3:{s:6:\"layout\";a:2:{s:14:\"section_layout\";a:5:{s:16:\"content_position\";i:1;s:6:\"layout\";i:2;s:13:\"custom_height\";i:1;s:3:\"gap\";i:1;s:15:\"stretch_section\";i:1;}s:17:\"section_structure\";a:1:{s:9:\"structure\";i:7;}}s:5:\"style\";a:3:{s:18:\"section_background\";a:6:{s:21:\"background_background\";i:3;s:16:\"background_image\";i:1;s:17:\"background_repeat\";i:2;s:15:\"background_size\";i:2;s:19:\"background_position\";i:1;s:16:\"background_color\";i:2;}s:26:\"section_background_overlay\";a:4:{s:29:\"background_overlay_background\";i:1;s:24:\"background_overlay_color\";i:1;s:29:\"background_overlay_color_stop\";i:1;s:33:\"background_overlay_gradient_angle\";i:1;}s:14:\"section_border\";a:2:{s:13:\"border_radius\";i:1;s:12:\"border_width\";i:1;}}s:8:\"advanced\";a:1:{s:16:\"section_advanced\";a:3:{s:6:\"margin\";i:7;s:7:\"padding\";i:4;s:11:\"css_classes\";i:1;}}}}s:8:\"icon-box\";a:3:{s:5:\"count\";i:16;s:15:\"control_percent\";i:10;s:8:\"controls\";a:3:{s:7:\"content\";a:1:{s:12:\"section_icon\";a:5:{s:10:\"title_text\";i:16;s:16:\"description_text\";i:16;s:13:\"selected_icon\";i:15;s:10:\"title_size\";i:13;s:8:\"position\";i:9;}}s:5:\"style\";a:2:{s:18:\"section_style_icon\";a:2:{s:13:\"primary_color\";i:16;s:19:\"hover_primary_color\";i:9;}s:21:\"section_style_content\";a:11:{s:11:\"title_color\";i:16;s:27:\"title_typography_typography\";i:16;s:28:\"title_typography_font_family\";i:16;s:28:\"title_typography_font_weight\";i:16;s:17:\"description_color\";i:3;s:33:\"description_typography_typography\";i:3;s:34:\"description_typography_font_family\";i:3;s:34:\"description_typography_font_weight\";i:3;s:10:\"text_align\";i:9;s:26:\"content_vertical_alignment\";i:9;s:31:\"title_typography_text_transform\";i:9;}}s:8:\"advanced\";a:3:{s:14:\"_section_style\";a:1:{s:8:\"_padding\";i:9;}s:19:\"_section_background\";a:1:{s:23:\"_background_hover_color\";i:9;}s:15:\"_section_border\";a:4:{s:14:\"_border_border\";i:9;s:13:\"_border_width\";i:9;s:13:\"_border_color\";i:9;s:14:\"_border_radius\";i:9;}}}}s:9:\"image-box\";a:3:{s:5:\"count\";i:8;s:15:\"control_percent\";i:7;s:8:\"controls\";a:3:{s:7:\"content\";a:1:{s:13:\"section_image\";a:6:{s:5:\"image\";i:8;s:10:\"title_text\";i:8;s:16:\"description_text\";i:8;s:4:\"link\";i:8;s:14:\"thumbnail_size\";i:8;s:26:\"thumbnail_custom_dimension\";i:2;}}s:5:\"style\";a:2:{s:19:\"section_style_image\";a:1:{s:10:\"image_size\";i:8;}s:21:\"section_style_content\";a:5:{s:11:\"title_color\";i:8;s:27:\"title_typography_typography\";i:8;s:28:\"title_typography_font_family\";i:8;s:26:\"title_typography_font_size\";i:8;s:28:\"title_typography_font_weight\";i:8;}}s:8:\"advanced\";a:2:{s:14:\"_section_style\";a:1:{s:8:\"_padding\";i:8;}s:15:\"_section_border\";a:3:{s:14:\"_border_border\";i:8;s:13:\"_border_width\";i:8;s:13:\"_border_color\";i:8;}}}}s:14:\"eael-post-grid\";a:3:{s:5:\"count\";i:1;s:15:\"control_percent\";i:1;s:8:\"controls\";a:1:{s:7:\"content\";a:2:{s:26:\"eael_section_post__filters\";a:1:{s:14:\"posts_per_page\";i:1;}s:33:\"eael_section_post_timeline_layout\";a:2:{s:22:\"eael_post_grid_columns\";i:1;s:11:\"layout_mode\";i:1;}}}}}",
+        "_elementor_css": "a:6:{s:4:\"time\";i:1633939014;s:5:\"fonts\";a:1:{i:0;s:10:\"Montserrat\";}s:5:\"icons\";a:4:{i:0;s:0:\"\";i:1;s:8:\"fa-solid\";i:2;s:9:\"fa-brands\";i:8;s:10:\"fa-regular\";}s:20:\"dynamic_elements_ids\";a:0:{}s:6:\"status\";s:4:\"file\";i:0;s:0:\"\";}"
+      }
+    },
+    {
+      "id": 8,
+      "name": "placeholder-png",
+      "title": "placeholder.png",
+      "type": "attachment",
+      "status": "inherit",
+      "comment_status": "open",
+      "excerpt": "",
+      "content": "",
+      "parent": 0,
+      "menu_order": 0,
+      "meta": {
+        "_wp_attached_file": "2021\/09\/placeholder.png",
+        "_wp_attachment_metadata": "a:5:{s:5:\"width\";i:1200;s:6:\"height\";i:800;s:4:\"file\";s:23:\"2021\/09\/placeholder.png\";s:5:\"sizes\";a:4:{s:6:\"medium\";a:4:{s:4:\"file\";s:23:\"placeholder-300x200.png\";s:5:\"width\";i:300;s:6:\"height\";i:200;s:9:\"mime-type\";s:9:\"image\/png\";}s:5:\"large\";a:4:{s:4:\"file\";s:24:\"placeholder-1024x683.png\";s:5:\"width\";i:1024;s:6:\"height\";i:683;s:9:\"mime-type\";s:9:\"image\/png\";}s:9:\"thumbnail\";a:4:{s:4:\"file\";s:23:\"placeholder-150x150.png\";s:5:\"width\";i:150;s:6:\"height\";i:150;s:9:\"mime-type\";s:9:\"image\/png\";}s:12:\"medium_large\";a:4:{s:4:\"file\";s:23:\"placeholder-768x512.png\";s:5:\"width\";i:768;s:6:\"height\";i:512;s:9:\"mime-type\";s:9:\"image\/png\";}}s:10:\"image_meta\";a:12:{s:8:\"aperture\";s:1:\"0\";s:6:\"credit\";s:0:\"\";s:6:\"camera\";s:0:\"\";s:7:\"caption\";s:0:\"\";s:17:\"created_timestamp\";s:1:\"0\";s:9:\"copyright\";s:0:\"\";s:12:\"focal_length\";s:1:\"0\";s:3:\"iso\";s:1:\"0\";s:13:\"shutter_speed\";s:1:\"0\";s:5:\"title\";s:0:\"\";s:11:\"orientation\";s:1:\"0\";s:8:\"keywords\";a:0:{}}}",
+        "_elementor_source_image_hash": "3467e20bd8d9a88f097c9f63897a5f005c318c33"
+      }
+    },
+    {
+      "id": 9,
+      "name": "slide2-1919x793-1-1-compressed-jpg",
+      "title": "slide2-1919x793-1-1-compressed.jpg",
+      "type": "attachment",
+      "status": "inherit",
+      "comment_status": "open",
+      "excerpt": "",
+      "content": "",
+      "parent": 0,
+      "menu_order": 0,
+      "meta": {
+        "_wp_attached_file": "2021\/09\/slide2-1919x793-1-1-compressed.jpg",
+        "_wp_attachment_metadata": "a:5:{s:5:\"width\";i:1919;s:6:\"height\";i:793;s:4:\"file\";s:42:\"2021\/09\/slide2-1919x793-1-1-compressed.jpg\";s:5:\"sizes\";a:5:{s:6:\"medium\";a:4:{s:4:\"file\";s:42:\"slide2-1919x793-1-1-compressed-300x124.jpg\";s:5:\"width\";i:300;s:6:\"height\";i:124;s:9:\"mime-type\";s:10:\"image\/jpeg\";}s:5:\"large\";a:4:{s:4:\"file\";s:43:\"slide2-1919x793-1-1-compressed-1024x423.jpg\";s:5:\"width\";i:1024;s:6:\"height\";i:423;s:9:\"mime-type\";s:10:\"image\/jpeg\";}s:9:\"thumbnail\";a:4:{s:4:\"file\";s:42:\"slide2-1919x793-1-1-compressed-150x150.jpg\";s:5:\"width\";i:150;s:6:\"height\";i:150;s:9:\"mime-type\";s:10:\"image\/jpeg\";}s:12:\"medium_large\";a:4:{s:4:\"file\";s:42:\"slide2-1919x793-1-1-compressed-768x317.jpg\";s:5:\"width\";i:768;s:6:\"height\";i:317;s:9:\"mime-type\";s:10:\"image\/jpeg\";}s:9:\"1536x1536\";a:4:{s:4:\"file\";s:43:\"slide2-1919x793-1-1-compressed-1536x635.jpg\";s:5:\"width\";i:1536;s:6:\"height\";i:635;s:9:\"mime-type\";s:10:\"image\/jpeg\";}}s:10:\"image_meta\";a:12:{s:8:\"aperture\";s:1:\"0\";s:6:\"credit\";s:0:\"\";s:6:\"camera\";s:0:\"\";s:7:\"caption\";s:0:\"\";s:17:\"created_timestamp\";s:1:\"0\";s:9:\"copyright\";s:0:\"\";s:12:\"focal_length\";s:1:\"0\";s:3:\"iso\";s:1:\"0\";s:13:\"shutter_speed\";s:1:\"0\";s:5:\"title\";s:0:\"\";s:11:\"orientation\";s:1:\"0\";s:8:\"keywords\";a:0:{}}}",
+        "_elementor_source_image_hash": "d00d37a871adadd9e4b6d61f83aedd94c400ffcd"
+      }
+    },
+    {
+      "id": 25,
+      "name": "header",
+      "title": "Header",
+      "type": "elementor-hf",
+      "status": "publish",
+      "comment_status": "closed",
+      "excerpt": "",
+      "content": "<a data-elementor-open-lightbox=\"\"  class='elementor-clickable' href=\"http:\/\/theme.wolfcoding.com\/education\">\n\t\t\t\t\t<img  src=\"http:\/\/theme.wolfcoding.com\/education\/wp-content\/uploads\/sites\/2\/2021\/09\/logo_2_sm_f_color.png\" alt=\"logo_2_sm_f_color\"\/>\n\t\t\t\t\t\t\t<\/a>\n\t\t\t\t<nav data-toggle-icon=\" data-full-width=\"yes\"><ul id=\"menu-1-c2394f0\"><li id=\"menu-item-155\"><a href=\"http:\/\/theme.wolfcoding.com\/education\/\" class = \"hfe-menu-item\">Home<\/a><\/li>\n<li id=\"menu-item-156\"><a href=\"#\" class = \"hfe-menu-item\">About Us<\/a><\/li>\n<li id=\"menu-item-157\"><a href=\"#\" class = \"hfe-menu-item\">Our Services<\/a><\/li>\n<li id=\"menu-item-158\"><a href=\"#\" class = \"hfe-menu-item\">Contact Us<\/a><\/li>\n<\/ul><\/nav>              \n\t\t\t<a href=\"#\" role=\"button\">\n\t\t\t\t\t\tRegister Now\n\t\t\t\t\t<\/a>",
+      "parent": 0,
+      "menu_order": 0,
+      "meta": {
+        "_edit_last": "1",
+        "_wp_page_template": "default",
+        "ehf_target_include_locations": "a:2:{s:4:\"rule\";a:1:{i:0;s:13:\"special-front\";}s:8:\"specific\";a:0:{}}",
+        "ehf_target_exclude_locations": "a:0:{}",
+        "ehf_target_user_roles": "a:1:{i:0;s:0:\"\";}",
+        "ehf_template_type": "type_header",
+        "_edit_lock": "1632904912:1",
+        "_elementor_edit_mode": "builder",
+        "_elementor_template_type": "wp-post",
+        "_elementor_version": "3.4.4",
+        "_elementor_page_settings": "a:1:{s:18:\"eael_ext_toc_title\";s:17:\"Table of Contents\";}",
+        "_elementor_data": "[{\"id\":\"4b48c030\",\"elType\":\"section\",\"settings\":{\"structure\":\"30\"},\"elements\":[{\"id\":\"741327d5\",\"elType\":\"column\",\"settings\":{\"_column_size\":33,\"_inline_size\":20,\"content_position\":\"center\",\"_inline_size_mobile\":50},\"elements\":[{\"id\":\"1f2ceb3\",\"elType\":\"widget\",\"settings\":{\"site_logo_fallback\":\"yes\",\"custom_image\":{\"id\":151,\"url\":\"http:\\\/\\\/theme.wolfcoding.com\\\/education\\\/wp-content\\\/uploads\\\/sites\\\/2\\\/2021\\\/09\\\/logo_2_sm_f_color.png\",\"alt\":\"\",\"source\":\"library\"},\"align\":\"left\"},\"elements\":[],\"widgetType\":\"site-logo\"}],\"isInner\":false},{\"id\":\"139bf4f6\",\"elType\":\"column\",\"settings\":{\"_column_size\":33,\"_inline_size\":59.332,\"content_position\":\"center\",\"_inline_size_mobile\":50},\"elements\":[{\"id\":\"c2394f0\",\"elType\":\"widget\",\"settings\":{\"navmenu_align\":\"center\",\"menu_typography_typography\":\"custom\",\"menu_typography_font_family\":\"Montserrat\",\"menu_typography_font_size\":{\"unit\":\"px\",\"size\":16,\"sizes\":[]},\"menu_typography_font_weight\":\"600\",\"menu_typography_text_transform\":\"uppercase\",\"color_menu_item\":\"#FFFFFF\",\"menu\":\"main-menu\"},\"elements\":[],\"widgetType\":\"navigation-menu\"}],\"isInner\":false},{\"id\":\"30fc7334\",\"elType\":\"column\",\"settings\":{\"_column_size\":33,\"_inline_size\":20},\"elements\":[{\"id\":\"a28aa51\",\"elType\":\"widget\",\"settings\":{\"text\":\"Register Now\",\"align\":\"justify\",\"background_color\":\"#2C75E4\",\"border_radius\":{\"unit\":\"px\",\"top\":\"20\",\"right\":\"20\",\"bottom\":\"20\",\"left\":\"20\",\"isLinked\":true},\"typography_typography\":\"custom\",\"typography_font_family\":\"Montserrat\",\"typography_font_weight\":\"500\",\"typography_text_transform\":\"uppercase\"},\"elements\":[],\"widgetType\":\"button\"}],\"isInner\":false}],\"isInner\":false}]",
+        "_elementor_page_assets": "a:0:{}",
+        "_elementor_controls_usage": "a:5:{s:9:\"site-logo\";a:3:{s:5:\"count\";i:1;s:15:\"control_percent\";i:2;s:8:\"controls\";a:1:{s:7:\"content\";a:1:{s:18:\"section_site_image\";a:3:{s:18:\"site_logo_fallback\";i:1;s:12:\"custom_image\";i:1;s:5:\"align\";i:1;}}}}s:6:\"column\";a:3:{s:5:\"count\";i:3;s:15:\"control_percent\";i:0;s:8:\"controls\";a:1:{s:6:\"layout\";a:1:{s:6:\"layout\";a:2:{s:12:\"_inline_size\";i:3;s:16:\"content_position\";i:2;}}}}s:15:\"navigation-menu\";a:3:{s:5:\"count\";i:1;s:15:\"control_percent\";i:2;s:8:\"controls\";a:2:{s:7:\"content\";a:1:{s:14:\"section_layout\";a:1:{s:13:\"navmenu_align\";i:1;}}s:5:\"style\";a:1:{s:23:\"section_style_main-menu\";a:6:{s:26:\"menu_typography_typography\";i:1;s:27:\"menu_typography_font_family\";i:1;s:25:\"menu_typography_font_size\";i:1;s:27:\"menu_typography_font_weight\";i:1;s:30:\"menu_typography_text_transform\";i:1;s:15:\"color_menu_item\";i:1;}}}}s:6:\"button\";a:3:{s:5:\"count\";i:1;s:15:\"control_percent\";i:3;s:8:\"controls\";a:2:{s:7:\"content\";a:1:{s:14:\"section_button\";a:2:{s:4:\"text\";i:1;s:5:\"align\";i:1;}}s:5:\"style\";a:1:{s:13:\"section_style\";a:6:{s:16:\"background_color\";i:1;s:13:\"border_radius\";i:1;s:21:\"typography_typography\";i:1;s:22:\"typography_font_family\";i:1;s:22:\"typography_font_weight\";i:1;s:25:\"typography_text_transform\";i:1;}}}}s:7:\"section\";a:3:{s:5:\"count\";i:1;s:15:\"control_percent\";i:0;s:8:\"controls\";a:1:{s:6:\"layout\";a:1:{s:17:\"section_structure\";a:1:{s:9:\"structure\";i:1;}}}}}",
+        "_elementor_css": "a:6:{s:4:\"time\";i:1632904787;s:5:\"fonts\";a:1:{i:0;s:10:\"Montserrat\";}s:5:\"icons\";a:3:{i:0;s:8:\"fa-solid\";i:1;s:10:\"fa-regular\";i:2;s:0:\"\";}s:20:\"dynamic_elements_ids\";a:0:{}s:6:\"status\";s:4:\"file\";i:0;s:0:\"\";}"
+      }
+    },
+    {
+      "id": 39,
+      "name": "footer",
+      "title": "Footer",
+      "type": "elementor-hf",
+      "status": "publish",
+      "comment_status": "closed",
+      "excerpt": "",
+      "content": "<img width=\"100\" height=\"54\" src=\"http:\/\/theme.wolfcoding.com\/education\/wp-content\/uploads\/sites\/2\/2021\/09\/logo_2_sm_f_color.png\" alt=\"\" loading=\"lazy\" \/>\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\tContrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old<p><strong>Phone<\/strong><\/p><p>+ 1 123 456 789<\/p><p><strong>Email<\/strong><\/p><p>admin@wolfcoding.com<\/p><p><strong>Address<\/strong><\/p><p>Newwork<\/p>\t\t\n\t\t\tInfomation\t\t\n\t\t\t\t\t<a target=\"_blank\" rel=\"noopener\">\n\t\t\t\t\t\tFacebook\n\t\t\t\t\t\t\t\t\t\t\t<\/a>\n\t\t\t\t\t<a target=\"_blank\" rel=\"noopener\">\n\t\t\t\t\t\tTwitter\n\t\t\t\t\t\t\t\t\t\t\t<\/a>\n\t\t\t\t\t<a target=\"_blank\" rel=\"noopener\">\n\t\t\t\t\t\tYoutube\n\t\t\t\t\t\t\t\t\t\t\t<\/a>",
+      "parent": 0,
+      "menu_order": 0,
+      "meta": {
+        "_edit_last": "1",
+        "_wp_page_template": "default",
+        "ehf_target_include_locations": "a:2:{s:4:\"rule\";a:1:{i:0;s:13:\"special-front\";}s:8:\"specific\";a:0:{}}",
+        "ehf_target_exclude_locations": "a:0:{}",
+        "ehf_target_user_roles": "a:1:{i:0;s:0:\"\";}",
+        "ehf_template_type": "type_footer",
+        "_edit_lock": "1632904668:1",
+        "_elementor_edit_mode": "builder",
+        "_elementor_template_type": "wp-post",
+        "_elementor_version": "3.4.4",
+        "_elementor_page_settings": "a:1:{s:18:\"eael_ext_toc_title\";s:17:\"Table of Contents\";}",
+        "_elementor_data": "[{\"id\":\"4ae41f98\",\"elType\":\"section\",\"settings\":{\"structure\":\"30\",\"background_background\":\"classic\",\"background_color\":\"#222222\",\"padding\":{\"unit\":\"px\",\"top\":\"50\",\"right\":\"0\",\"bottom\":\"20\",\"left\":\"0\",\"isLinked\":false}},\"elements\":[{\"id\":\"69406970\",\"elType\":\"column\",\"settings\":{\"_column_size\":33,\"_inline_size\":null},\"elements\":[{\"id\":\"74530417\",\"elType\":\"widget\",\"settings\":{\"image\":{\"id\":151,\"url\":\"http:\\\/\\\/theme.wolfcoding.com\\\/education\\\/wp-content\\\/uploads\\\/sites\\\/2\\\/2021\\\/09\\\/logo_2_sm_f_color.png\",\"alt\":\"\",\"source\":\"library\"},\"align\":\"left\"},\"elements\":[],\"widgetType\":\"image\"},{\"id\":\"7fabc85c\",\"elType\":\"widget\",\"settings\":{\"editor\":\"Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old\",\"text_color\":\"#FFFFFF\",\"typography_typography\":\"custom\",\"typography_font_family\":\"Montserrat\",\"typography_font_weight\":\"400\"},\"elements\":[],\"widgetType\":\"text-editor\"}],\"isInner\":false},{\"id\":\"73305fd2\",\"elType\":\"column\",\"settings\":{\"_column_size\":33,\"_inline_size\":null},\"elements\":[{\"id\":\"2c3cce90\",\"elType\":\"widget\",\"settings\":{\"editor\":\"<p><strong>Phone<\\\/strong><\\\/p><p>+ 1 123 456 789<\\\/p><p><strong>Email<\\\/strong><\\\/p><p>admin@wolfcoding.com<\\\/p><p><strong>Address<\\\/strong><\\\/p><p>Newwork<\\\/p>\",\"text_color\":\"#FFFFFF\",\"typography_typography\":\"custom\",\"typography_font_family\":\"Montserrat\",\"typography_font_weight\":\"400\"},\"elements\":[],\"widgetType\":\"text-editor\"}],\"isInner\":false},{\"id\":\"70c6411\",\"elType\":\"column\",\"settings\":{\"_column_size\":33,\"_inline_size\":null},\"elements\":[{\"id\":\"3abd8dde\",\"elType\":\"widget\",\"settings\":{\"title\":\"Infomation\",\"header_size\":\"div\",\"title_color\":\"#FFFFFF\",\"typography_typography\":\"custom\",\"typography_font_family\":\"Montserrat\",\"typography_font_size\":{\"unit\":\"px\",\"size\":20,\"sizes\":[]},\"typography_font_weight\":\"600\"},\"elements\":[],\"widgetType\":\"heading\"},{\"id\":\"38f9798a\",\"elType\":\"widget\",\"settings\":{\"social_icon_list\":[{\"social_icon\":{\"value\":\"fab fa-facebook\",\"library\":\"fa-brands\"},\"_id\":\"841a255\"},{\"social_icon\":{\"value\":\"fab fa-twitter\",\"library\":\"fa-brands\"},\"_id\":\"f9e1f26\"},{\"social_icon\":{\"value\":\"fab fa-youtube\",\"library\":\"fa-brands\"},\"_id\":\"c62cfb9\"}],\"align\":\"left\"},\"elements\":[],\"widgetType\":\"social-icons\"}],\"isInner\":false}],\"isInner\":false}]",
+        "_elementor_page_assets": "a:0:{}",
+        "_elementor_controls_usage": "a:6:{s:5:\"image\";a:3:{s:5:\"count\";i:1;s:15:\"control_percent\";i:1;s:8:\"controls\";a:1:{s:7:\"content\";a:1:{s:13:\"section_image\";a:2:{s:5:\"image\";i:1;s:5:\"align\";i:1;}}}}s:11:\"text-editor\";a:3:{s:5:\"count\";i:2;s:15:\"control_percent\";i:3;s:8:\"controls\";a:2:{s:7:\"content\";a:1:{s:14:\"section_editor\";a:1:{s:6:\"editor\";i:2;}}s:5:\"style\";a:1:{s:13:\"section_style\";a:4:{s:10:\"text_color\";i:2;s:21:\"typography_typography\";i:2;s:22:\"typography_font_family\";i:2;s:22:\"typography_font_weight\";i:2;}}}}s:6:\"column\";a:3:{s:5:\"count\";i:3;s:15:\"control_percent\";i:0;s:8:\"controls\";a:1:{s:6:\"layout\";a:1:{s:6:\"layout\";a:1:{s:12:\"_inline_size\";i:3;}}}}s:7:\"heading\";a:3:{s:5:\"count\";i:1;s:15:\"control_percent\";i:4;s:8:\"controls\";a:2:{s:7:\"content\";a:1:{s:13:\"section_title\";a:2:{s:5:\"title\";i:1;s:11:\"header_size\";i:1;}}s:5:\"style\";a:1:{s:19:\"section_title_style\";a:5:{s:11:\"title_color\";i:1;s:21:\"typography_typography\";i:1;s:22:\"typography_font_family\";i:1;s:20:\"typography_font_size\";i:1;s:22:\"typography_font_weight\";i:1;}}}}s:12:\"social-icons\";a:3:{s:5:\"count\";i:1;s:15:\"control_percent\";i:1;s:8:\"controls\";a:1:{s:7:\"content\";a:1:{s:19:\"section_social_icon\";a:2:{s:16:\"social_icon_list\";i:1;s:5:\"align\";i:1;}}}}s:7:\"section\";a:3:{s:5:\"count\";i:1;s:15:\"control_percent\";i:2;s:8:\"controls\";a:3:{s:6:\"layout\";a:1:{s:17:\"section_structure\";a:1:{s:9:\"structure\";i:1;}}s:5:\"style\";a:1:{s:18:\"section_background\";a:2:{s:21:\"background_background\";i:1;s:16:\"background_color\";i:1;}}s:8:\"advanced\";a:1:{s:16:\"section_advanced\";a:1:{s:7:\"padding\";i:1;}}}}}",
+        "_elementor_css": "a:6:{s:4:\"time\";i:1632904658;s:5:\"fonts\";a:1:{i:0;s:10:\"Montserrat\";}s:5:\"icons\";a:1:{i:0;s:9:\"fa-brands\";}s:20:\"dynamic_elements_ids\";a:0:{}s:6:\"status\";s:4:\"file\";i:0;s:0:\"\";}"
+      }
+    },
+    {
+      "id": 59,
+      "name": "consequatur-qui-qui-tempore-cupiditate-ullam-officia",
+      "title": "Consequatur qui qui tempore cupiditate ullam officia",
+      "type": "post",
+      "status": "publish",
+      "comment_status": "open",
+      "excerpt": "Voluptatem autem nihil est voluptatum veniam aut nulla molestias repellat occaecati nihil totam porro molestiae et et nesciunt nam et praesentium nesciunt consectetur voluptas aliquam veniam quia veritatis est non magnam nesciunt ut placeat autem delectus molestias saepe explicabo non eveniet aut laborum modi officia minus excepturi quasi eum quisquam quo minus.",
+      "content": "<hr>\n\n<h3>Ut minima porro quia quia praesentium corporis cum<\/h3>\n<blockquote>Aliquid rerum porro voluptatum fugit fuga. Reiciendis nam ut et numquam. Fuga sunt harum voluptatem veniam quia autem optio. Dolor qui ea tempore eveniet doloremque accusantium. Voluptas commodi adipisci fugiat aut. Optio exercitationem et reprehenderit ea facilis. Nihil numquam qui ut omnis enim. Ut nisi earum magnam asperiores. Reprehenderit quis unde velit voluptatibus similique. Vel ad similique quibusdam corporis expedita veritatis. Voluptates occaecati ut facilis omnis quis minima. Atque et suscipit aut qui similique nostrum maiores. Omnis accusamus doloremque quos voluptatem deleniti sed. Dolor facere aperiam incidunt non sit eligendi dolorem. Nihil molestias quod quaerat aut labore et. Quo totam voluptatum doloremque. Sed fugiat vel deserunt. Eveniet aut et aliquid in nisi omnis sed. Sint corrupti nam quos quaerat minima eum beatae. Et veniam repellendus error. Id dolore dignissimos magni assumenda quam. Eaque nihil a ab perferendis voluptatibus. Sed commodi nihil ut autem. Sed libero similique nihil blanditiis aut non. At rerum aut molestiae aut cum excepturi. Consequatur nulla modi doloremque iusto a consequuntur rerum. Explicabo omnis aut corrupti. Consectetur doloribus officiis omnis accusantium quia dicta. Ratione explicabo esse vel dolore magni. Vitae repudiandae ipsum dolores reprehenderit qui laboriosam magnam. Possimus et omnis aut eligendi amet culpa id. Ut dolor voluptatum magni. Non doloremque doloremque earum quia. Accusamus incidunt a quas dolor numquam voluptatem. Atque omnis impedit dolores dolore beatae dolor praesentium. Magnam itaque quia quod debitis id. Necessitatibus qui omnis accusamus dignissimos et dignissimos cum. Autem numquam officia atque qui ab quibusdam et alias. Ex et maxime quaerat fugit quas assumenda. Dolorum dignissimos sapiente sunt illo. In aliquid hic voluptatum officia occaecati. Dolorem sed id facilis totam rerum aut. Est voluptatibus vitae ipsum voluptas doloremque animi ea. Accusamus minima laudantium esse itaque ratione et aut. Nesciunt illo sunt sapiente minus illum. Assumenda repellat magnam eum et alias. Qui praesentium voluptas vel rem doloribus. Eveniet dolores odit accusamus commodi quis. Est impedit autem fugit facere aspernatur quis reiciendis. Dolorem rerum maxime ea culpa beatae nisi dolorem. Doloremque perferendis nulla totam aut. Qui ipsa et laborum reiciendis. Velit natus rerum inventore.<\/blockquote>\n<h6>Dolorem rem omnis consequatur illo id architecto. Voluptatem beatae quis magni dolores dolor quis. Ad incidunt blanditiis est minus mollitia. Ullam hic voluptatem architecto odio consectetur<\/h6>\n<ol>\n \t<li>Omnis reiciendis alias illo<\/li>\n \t<li>Enim facere ducimus hic ad<\/li>\n \t<li>Inventore quia minima sed<\/li>\n<\/ol>\n<!--more-->\n<img alt=\"Voluptatem vitae\">\n<h1>Totam qui quam fuga. Et quidem exercitationem et et. Iure sit ipsum perspiciatis numquam rerum. A eos et voluptate<\/h1>\nEa ducimus est maiores aliquid et at. Itaque rerum <a title=\"Sapiente.\" href=\"http:\/\/www.simonis.com\/ratione-aut-qui-illo\">ut quis commodi<\/a> Ratione quaerat magnam ea laborum rem officiis. Culpa <a title=\"Et.\" href=\"https:\/\/www.moen.com\/itaque-ipsa-cum-illum-minus-corrupti-maxime\">odit et ipsa.<\/a> provident ab consectetur dolor aut adipisci <a title=\"Molestiae fuga.\" href=\"http:\/\/www.mosciski.biz\/sint-nulla-quisquam-sit-id-aspernatur-ut-vel-ut\">Dolores et eos sit ut<\/a> nihil. Consequatur molestiae mollitia <a title=\"Nemo ullam mollitia nesciunt.\" href=\"http:\/\/schmitt.info\/provident-eos-ratione-similique-est-ipsa-laborum-omnis.html\">reiciendis ut. Aliquid<\/a> non animi quia. Rerum magni eaque dicta consequuntur.\n<h1>Repellat sunt quia asperiores velit. Autem animi quis porro. Est amet aut in<\/h1>\n<ol>\n \t<li>Vero qui ullam veritatis et iusto modi<\/li>\n \t<li>Odit doloribus<\/li>\n \t<li>Et tempora<\/li>\n \t<li>Velit dicta esse voluptates et<\/li>\n \t<li>Nihil sint dolorum suscipit earum sit<\/li>\n \t<li>Non dolorum ut qui repellendus saepe sit quas<\/li>\n<\/ol>",
+      "parent": 0,
+      "menu_order": 0,
+      "terms": [
+        1
+      ],
+      "meta": {
+        "fakerpress_flag": "1",
+        "_thumbnail_id": "125",
+        "_edit_lock": "1632903958:1"
+      }
+    },
+    {
+      "id": 61,
+      "name": "asperiores-sunt-sapiente-dolore-animi-ea",
+      "title": "Asperiores sunt sapiente dolore animi ea",
+      "type": "post",
+      "status": "publish",
+      "comment_status": "open",
+      "excerpt": "",
+      "content": "<h1>Sapiente magni omnis voluptatem ipsam accusantium. Ea ut alias similique recusandae. Et assumenda saepe et<\/h1>\n<blockquote><a title=\"Facere eveniet et consequatur.\" href=\"http:\/\/dietrich.org\/\">Quo impedit ab omnis culpa.<\/a> hic dignissimos perspiciatis. Mollitia <a title=\"Ipsa et eligendi.\" href=\"https:\/\/www.larkin.biz\/sed-modi-consequuntur-nemo\">odio quasi<\/a> nesciunt repudiandae. sit fuga sunt placeat <a title=\"Suscipit ut pariatur a autem perferendis nostrum quisquam.\" href=\"http:\/\/sauer.info\/\">eaque. Dignissimos sunt rerum<\/a> sint. Quia quia aliquam expedita. Voluptas dignissimos cupiditate inventore ut <a title=\"Vel cupiditate laudantium quo odit ad voluptatibus neque quam.\" href=\"http:\/\/conroy.com\/voluptas-officiis-quod-dolores-aliquid-dolorem-delectus-totam-ut\">exercitationem. Qui dolorem<\/a> corporis iure tempore. <a title=\"Quis ullam.\" href=\"http:\/\/keeling.com\/labore-qui-est-amet-fuga-hic.html\">voluptatum eveniet<\/a> <a title=\"Repellendus tempore natus excepturi.\" href=\"http:\/\/www.farrell.com\/sed-culpa-non-accusantium-corrupti\">sunt fugiat fugit libero.<\/a> illum repellat odio beatae architecto. Qui provident quo omnis aut asperiores.<\/blockquote>\n<ol>\n \t<li>Asperiores laborum vitae omnis<\/li>\n \t<li>Deserunt non fugiat qui voluptas et ipsa<\/li>\n<\/ol>\n<img alt=\"Harum libero perspiciatis et qui\">\n<img alt=\"Magnam vitae dignissimos delectus qui itaque excepturi est\">\n<!--more-->\n<h4>Explicabo dignissimos eum ipsam labore molestiae aliquam. Ex voluptas consectetur esse ipsa aut. Qui fugiat dolorum quae eaque velit consequatur<\/h4>\n\n<hr>",
+      "parent": 0,
+      "menu_order": 0,
+      "terms": [
+        1
+      ],
+      "meta": {
+        "fakerpress_flag": "1",
+        "_thumbnail_id": "129",
+        "_edit_lock": "1632903958:1"
+      }
+    },
+    {
+      "id": 63,
+      "name": "cupiditate-veniam-autem-occaecati",
+      "title": "Cupiditate veniam autem occaecati",
+      "type": "post",
+      "status": "publish",
+      "comment_status": "open",
+      "excerpt": "",
+      "content": "Quisquam labore veniam ullam quo ut ipsam dolores. vel vel <a title=\"Possimus sint ut debitis voluptatem facere odit doloribus possimus.\" href=\"http:\/\/wintheiser.com\/cumque-officia-doloribus-aut-dolor.html\">aliquid. Veritatis ipsam<\/a> voluptates molestiae magnam est temporibus. Expedita et error distinctio alias <a title=\"Sit suscipit dolores blanditiis.\" href=\"http:\/\/www.oberbrunner.com\/\">Accusamus molestiae et doloremque quam nostrum<\/a> Minima molestiae illo omnis. Quia odio quo sint facilis <a title=\"Assumenda mollitia et excepturi omnis doloremque.\" href=\"http:\/\/emmerich.com\/velit-voluptatem-est-dolore-cumque-error-autem.html\">aut. Ea ab sint<\/a> consequuntur est. Veritatis aperiam voluptates cumque dolorum maxime. atque et nostrum sit et dicta autem. Nihil omnis quisquam dignissimos nisi facere. rerum quos odit vitae. Aperiam et <a title=\"Nostrum eveniet.\" href=\"http:\/\/www.grimes.biz\/eos-veniam-culpa-odio-recusandae-deserunt-accusantium-tempore-velit\">recusandae dicta voluptas corporis et<\/a> Porro sed excepturi sed vero. Nihil dolore quos et pariatur. Magnam quo <a title=\"Nemo et.\" href=\"http:\/\/www.barrows.com\/sunt-numquam-quibusdam-sit-est-qui-aut-quibusdam.html\">quia.<\/a> sunt ullam dolorum dolorem enim. Dolores est ab ut. <a title=\"Eum.\" href=\"http:\/\/www.pacocha.info\/modi-quis-voluptas-exercitationem-modi-quod-iste-sed.html\">quae<\/a> eligendi quia sapiente. quisquam ipsum ab. Delectus voluptatem quo temporibus vitae doloremque. Consequatur possimus molestiae distinctio corrupti illum. Et deserunt repudiandae suscipit et sint in.\n<blockquote>Nesciunt voluptatum reiciendis quasi Et corporis porro. Dolore mollitia possimus ut laboriosam quia sit in. Doloremque voluptatibus eaque explicabo. Dignissimos quidem ea quaerat velit. Sed rerum est sed amet sed. sint dolorem rerum est aut odio. Sint est quisquam vel. Quia non voluptatem rem dolore. Mollitia odio cumque eos temporibus. Eum vel ratione et. Fugit et inventore fugiat nulla sit nemo. Dolor <a title=\"Consequatur est aut quis repudiandae numquam laborum est eius vero cumque.\" href=\"http:\/\/www.sanford.com\/sed-voluptate-omnis-sed-nesciunt-vitae-ipsam-aut\">similique rerum id rerum<\/a> <a title=\"Et possimus sed cum quidem et.\" href=\"http:\/\/williamson.biz\/ipsum-ut-fugit-rerum-quia-et-repudiandae-saepe-repellendus\">Vel<\/a> et numquam eveniet vel assumenda expedita. Laboriosam sint consectetur soluta. tempore accusantium expedita. Sunt aut distinctio odio vero itaque. Provident nulla esse aspernatur sequi unde. nisi accusamus quis dolorum atque porro quis. Eveniet corporis maxime voluptatum. Ea qui non id voluptatem veniam ducimus ut. et et accusantium non velit dolorum. sed recusandae assumenda <a title=\"Quam eos qui iusto reiciendis sit quisquam.\" href=\"http:\/\/rowe.net\/corrupti-eum-est-quia-voluptas-in-quia\">qui harum.<\/a> iusto perspiciatis doloremque. Explicabo enim quibusdam repellat. aut ratione est assumenda vitae. aperiam sit dolorem quia provident accusamus Repudiandae veritatis corporis necessitatibus omnis. Et maxime temporibus quaerat laborum facilis officia.<\/blockquote>\n<h4>Atque eos necessitatibus est in. Ut id eveniet laudantium quo consequatur<\/h4>\n\n<hr>\n\n<!--more-->\n<h6>Aperiam rerum molestias quia laboriosam explicabo qui. Modi nisi suscipit nulla velit. Est totam dignissimos non magni aspernatur ad<\/h6>\n<ul>\n \t<li>Nam hic<\/li>\n \t<li>Ut veritatis voluptates cumque aut<\/li>\n \t<li>Perspiciatis<\/li>\n \t<li>Porro ut<\/li>\n \t<li>Dolores sunt nulla nobis<\/li>\n<\/ul>\n<h1>Optio velit velit est. Nulla voluptas iste laudantium et. Hic reiciendis aut eos<\/h1>\n<ul>\n \t<li>Quo iste voluptatibus nihil qui itaque<\/li>\n \t<li>Eos iusto tempora adipisci<\/li>\n \t<li>Ea saepe nulla<\/li>\n \t<li>Nihil et quas<\/li>\n \t<li>Nobis tempora eos dolorum et consequuntur sint<\/li>\n \t<li>Totam eum<\/li>\n \t<li>Quos sint sit nulla sint<\/li>\n \t<li>Nihil earum quam qui temporibus rerum<\/li>\n<\/ul>\n<h3>Et adipisci atque fugiat quae voluptatem iste voluptatem eum. Voluptatibus temporibus a facilis nisi<\/h3>\n<ul>\n \t<li>Corporis at<\/li>\n \t<li>Ratione quibusdam quia ad<\/li>\n \t<li>Praesentium et<\/li>\n \t<li>Dolor aspernatur odit a non<\/li>\n \t<li>Minima dolorem est quod omnis deleniti<\/li>\n \t<li>A provident in ad necessitatibus id<\/li>\n \t<li>Laboriosam<\/li>\n \t<li>Dicta id repellat repellendus inventore sint<\/li>\n \t<li>Qui perferendis harum<\/li>\n<\/ul>\n<img class=\"alignright\" alt=\"Quis nulla nemo odit\">",
+      "parent": 0,
+      "menu_order": 0,
+      "terms": [
+        1
+      ],
+      "meta": {
+        "fakerpress_flag": "1",
+        "_thumbnail_id": "130",
+        "_edit_lock": "1632903957:1",
+        "_encloseme": "1"
+      }
+    },
+    {
+      "id": 113,
+      "name": "amr-taha-m0kurn3tjwg-unsplash",
+      "title": "amr-taha-M0KuRN3TjWg-unsplash",
+      "type": "attachment",
+      "status": "inherit",
+      "comment_status": "open",
+      "excerpt": "",
+      "content": "",
+      "parent": 6,
+      "menu_order": 0,
+      "meta": {
+        "_wp_attached_file": "2021\/09\/amr-taha-M0KuRN3TjWg-unsplash.jpg",
+        "_wp_attachment_metadata": "a:5:{s:5:\"width\";i:640;s:6:\"height\";i:427;s:4:\"file\";s:41:\"2021\/09\/amr-taha-M0KuRN3TjWg-unsplash.jpg\";s:5:\"sizes\";a:2:{s:6:\"medium\";a:4:{s:4:\"file\";s:41:\"amr-taha-M0KuRN3TjWg-unsplash-300x200.jpg\";s:5:\"width\";i:300;s:6:\"height\";i:200;s:9:\"mime-type\";s:10:\"image\/jpeg\";}s:9:\"thumbnail\";a:4:{s:4:\"file\";s:41:\"amr-taha-M0KuRN3TjWg-unsplash-150x150.jpg\";s:5:\"width\";i:150;s:6:\"height\";i:150;s:9:\"mime-type\";s:10:\"image\/jpeg\";}}s:10:\"image_meta\";a:12:{s:8:\"aperture\";s:1:\"0\";s:6:\"credit\";s:0:\"\";s:6:\"camera\";s:0:\"\";s:7:\"caption\";s:0:\"\";s:17:\"created_timestamp\";s:1:\"0\";s:9:\"copyright\";s:0:\"\";s:12:\"focal_length\";s:1:\"0\";s:3:\"iso\";s:1:\"0\";s:13:\"shutter_speed\";s:1:\"0\";s:5:\"title\";s:0:\"\";s:11:\"orientation\";s:1:\"0\";s:8:\"keywords\";a:0:{}}}"
+      }
+    },
+    {
+      "id": 121,
+      "name": "lissete-laverde-ot510cp3flw-unsplash",
+      "title": "lissete-laverde-Ot510CP3FLw-unsplash",
+      "type": "attachment",
+      "status": "inherit",
+      "comment_status": "open",
+      "excerpt": "",
+      "content": "",
+      "parent": 6,
+      "menu_order": 0,
+      "meta": {
+        "_wp_attached_file": "2021\/09\/lissete-laverde-Ot510CP3FLw-unsplash.jpg",
+        "_wp_attachment_metadata": "a:5:{s:5:\"width\";i:640;s:6:\"height\";i:427;s:4:\"file\";s:48:\"2021\/09\/lissete-laverde-Ot510CP3FLw-unsplash.jpg\";s:5:\"sizes\";a:2:{s:6:\"medium\";a:4:{s:4:\"file\";s:48:\"lissete-laverde-Ot510CP3FLw-unsplash-300x200.jpg\";s:5:\"width\";i:300;s:6:\"height\";i:200;s:9:\"mime-type\";s:10:\"image\/jpeg\";}s:9:\"thumbnail\";a:4:{s:4:\"file\";s:48:\"lissete-laverde-Ot510CP3FLw-unsplash-150x150.jpg\";s:5:\"width\";i:150;s:6:\"height\";i:150;s:9:\"mime-type\";s:10:\"image\/jpeg\";}}s:10:\"image_meta\";a:12:{s:8:\"aperture\";s:1:\"0\";s:6:\"credit\";s:0:\"\";s:6:\"camera\";s:0:\"\";s:7:\"caption\";s:0:\"\";s:17:\"created_timestamp\";s:1:\"0\";s:9:\"copyright\";s:0:\"\";s:12:\"focal_length\";s:1:\"0\";s:3:\"iso\";s:1:\"0\";s:13:\"shutter_speed\";s:1:\"0\";s:5:\"title\";s:0:\"\";s:11:\"orientation\";s:1:\"0\";s:8:\"keywords\";a:0:{}}}"
+      }
+    },
+    {
+      "id": 122,
+      "name": "lissete-laverde-0yciuvyzfme-unsplash",
+      "title": "lissete-laverde-0YciUvyZfME-unsplash",
+      "type": "attachment",
+      "status": "inherit",
+      "comment_status": "open",
+      "excerpt": "",
+      "content": "",
+      "parent": 6,
+      "menu_order": 0,
+      "meta": {
+        "_wp_attached_file": "2021\/09\/lissete-laverde-0YciUvyZfME-unsplash.jpg",
+        "_wp_attachment_metadata": "a:5:{s:5:\"width\";i:640;s:6:\"height\";i:427;s:4:\"file\";s:48:\"2021\/09\/lissete-laverde-0YciUvyZfME-unsplash.jpg\";s:5:\"sizes\";a:2:{s:6:\"medium\";a:4:{s:4:\"file\";s:48:\"lissete-laverde-0YciUvyZfME-unsplash-300x200.jpg\";s:5:\"width\";i:300;s:6:\"height\";i:200;s:9:\"mime-type\";s:10:\"image\/jpeg\";}s:9:\"thumbnail\";a:4:{s:4:\"file\";s:48:\"lissete-laverde-0YciUvyZfME-unsplash-150x150.jpg\";s:5:\"width\";i:150;s:6:\"height\";i:150;s:9:\"mime-type\";s:10:\"image\/jpeg\";}}s:10:\"image_meta\";a:12:{s:8:\"aperture\";s:1:\"0\";s:6:\"credit\";s:0:\"\";s:6:\"camera\";s:0:\"\";s:7:\"caption\";s:0:\"\";s:17:\"created_timestamp\";s:1:\"0\";s:9:\"copyright\";s:0:\"\";s:12:\"focal_length\";s:1:\"0\";s:3:\"iso\";s:1:\"0\";s:13:\"shutter_speed\";s:1:\"0\";s:5:\"title\";s:0:\"\";s:11:\"orientation\";s:1:\"0\";s:8:\"keywords\";a:0:{}}}"
+      }
+    },
+    {
+      "id": 123,
+      "name": "kelly-sikkema-yk0hpwwdj1i-unsplash",
+      "title": "kelly-sikkema-YK0HPwWDJ1I-unsplash",
+      "type": "attachment",
+      "status": "inherit",
+      "comment_status": "open",
+      "excerpt": "",
+      "content": "",
+      "parent": 6,
+      "menu_order": 0,
+      "meta": {
+        "_wp_attached_file": "2021\/09\/kelly-sikkema-YK0HPwWDJ1I-unsplash.jpg",
+        "_wp_attachment_metadata": "a:5:{s:5:\"width\";i:640;s:6:\"height\";i:427;s:4:\"file\";s:46:\"2021\/09\/kelly-sikkema-YK0HPwWDJ1I-unsplash.jpg\";s:5:\"sizes\";a:2:{s:6:\"medium\";a:4:{s:4:\"file\";s:46:\"kelly-sikkema-YK0HPwWDJ1I-unsplash-300x200.jpg\";s:5:\"width\";i:300;s:6:\"height\";i:200;s:9:\"mime-type\";s:10:\"image\/jpeg\";}s:9:\"thumbnail\";a:4:{s:4:\"file\";s:46:\"kelly-sikkema-YK0HPwWDJ1I-unsplash-150x150.jpg\";s:5:\"width\";i:150;s:6:\"height\";i:150;s:9:\"mime-type\";s:10:\"image\/jpeg\";}}s:10:\"image_meta\";a:12:{s:8:\"aperture\";s:1:\"0\";s:6:\"credit\";s:0:\"\";s:6:\"camera\";s:0:\"\";s:7:\"caption\";s:0:\"\";s:17:\"created_timestamp\";s:1:\"0\";s:9:\"copyright\";s:0:\"\";s:12:\"focal_length\";s:1:\"0\";s:3:\"iso\";s:1:\"0\";s:13:\"shutter_speed\";s:1:\"0\";s:5:\"title\";s:0:\"\";s:11:\"orientation\";s:1:\"0\";s:8:\"keywords\";a:0:{}}}"
+      }
+    },
+    {
+      "id": 124,
+      "name": "tyler-nix-w9rophk-rq-unsplash",
+      "title": "tyler-nix-W9rOPHK--RQ-unsplash",
+      "type": "attachment",
+      "status": "inherit",
+      "comment_status": "open",
+      "excerpt": "",
+      "content": "",
+      "parent": 6,
+      "menu_order": 0,
+      "meta": {
+        "_wp_attached_file": "2021\/09\/tyler-nix-W9rOPHK-RQ-unsplash.jpg",
+        "_wp_attachment_metadata": "a:5:{s:5:\"width\";i:640;s:6:\"height\";i:427;s:4:\"file\";s:41:\"2021\/09\/tyler-nix-W9rOPHK-RQ-unsplash.jpg\";s:5:\"sizes\";a:2:{s:6:\"medium\";a:4:{s:4:\"file\";s:41:\"tyler-nix-W9rOPHK-RQ-unsplash-300x200.jpg\";s:5:\"width\";i:300;s:6:\"height\";i:200;s:9:\"mime-type\";s:10:\"image\/jpeg\";}s:9:\"thumbnail\";a:4:{s:4:\"file\";s:41:\"tyler-nix-W9rOPHK-RQ-unsplash-150x150.jpg\";s:5:\"width\";i:150;s:6:\"height\";i:150;s:9:\"mime-type\";s:10:\"image\/jpeg\";}}s:10:\"image_meta\";a:12:{s:8:\"aperture\";s:1:\"0\";s:6:\"credit\";s:0:\"\";s:6:\"camera\";s:0:\"\";s:7:\"caption\";s:0:\"\";s:17:\"created_timestamp\";s:1:\"0\";s:9:\"copyright\";s:0:\"\";s:12:\"focal_length\";s:1:\"0\";s:3:\"iso\";s:1:\"0\";s:13:\"shutter_speed\";s:1:\"0\";s:5:\"title\";s:0:\"\";s:11:\"orientation\";s:1:\"0\";s:8:\"keywords\";a:0:{}}}"
+      }
+    },
+    {
+      "id": 125,
+      "name": "pickawood-6taio3pxde4-unsplash",
+      "title": "pickawood-6tAIO3pxde4-unsplash",
+      "type": "attachment",
+      "status": "inherit",
+      "comment_status": "open",
+      "excerpt": "",
+      "content": "",
+      "parent": 6,
+      "menu_order": 0,
+      "meta": {
+        "_wp_attached_file": "2021\/09\/pickawood-6tAIO3pxde4-unsplash.jpg",
+        "_wp_attachment_metadata": "a:5:{s:5:\"width\";i:640;s:6:\"height\";i:427;s:4:\"file\";s:42:\"2021\/09\/pickawood-6tAIO3pxde4-unsplash.jpg\";s:5:\"sizes\";a:2:{s:6:\"medium\";a:4:{s:4:\"file\";s:42:\"pickawood-6tAIO3pxde4-unsplash-300x200.jpg\";s:5:\"width\";i:300;s:6:\"height\";i:200;s:9:\"mime-type\";s:10:\"image\/jpeg\";}s:9:\"thumbnail\";a:4:{s:4:\"file\";s:42:\"pickawood-6tAIO3pxde4-unsplash-150x150.jpg\";s:5:\"width\";i:150;s:6:\"height\";i:150;s:9:\"mime-type\";s:10:\"image\/jpeg\";}}s:10:\"image_meta\";a:12:{s:8:\"aperture\";s:1:\"0\";s:6:\"credit\";s:0:\"\";s:6:\"camera\";s:0:\"\";s:7:\"caption\";s:0:\"\";s:17:\"created_timestamp\";s:1:\"0\";s:9:\"copyright\";s:0:\"\";s:12:\"focal_length\";s:1:\"0\";s:3:\"iso\";s:1:\"0\";s:13:\"shutter_speed\";s:1:\"0\";s:5:\"title\";s:0:\"\";s:11:\"orientation\";s:1:\"0\";s:8:\"keywords\";a:0:{}}}"
+      }
+    },
+    {
+      "id": 129,
+      "name": "oleg-laptev-x6ktrrrjhuo-unsplash",
+      "title": "oleg-laptev-x6kTRrrjhuo-unsplash",
+      "type": "attachment",
+      "status": "inherit",
+      "comment_status": "open",
+      "excerpt": "",
+      "content": "",
+      "parent": 6,
+      "menu_order": 0,
+      "meta": {
+        "_wp_attached_file": "2021\/09\/oleg-laptev-x6kTRrrjhuo-unsplash.jpg",
+        "_wp_attachment_metadata": "a:5:{s:5:\"width\";i:640;s:6:\"height\";i:427;s:4:\"file\";s:44:\"2021\/09\/oleg-laptev-x6kTRrrjhuo-unsplash.jpg\";s:5:\"sizes\";a:2:{s:6:\"medium\";a:4:{s:4:\"file\";s:44:\"oleg-laptev-x6kTRrrjhuo-unsplash-300x200.jpg\";s:5:\"width\";i:300;s:6:\"height\";i:200;s:9:\"mime-type\";s:10:\"image\/jpeg\";}s:9:\"thumbnail\";a:4:{s:4:\"file\";s:44:\"oleg-laptev-x6kTRrrjhuo-unsplash-150x150.jpg\";s:5:\"width\";i:150;s:6:\"height\";i:150;s:9:\"mime-type\";s:10:\"image\/jpeg\";}}s:10:\"image_meta\";a:12:{s:8:\"aperture\";s:1:\"0\";s:6:\"credit\";s:0:\"\";s:6:\"camera\";s:0:\"\";s:7:\"caption\";s:0:\"\";s:17:\"created_timestamp\";s:1:\"0\";s:9:\"copyright\";s:0:\"\";s:12:\"focal_length\";s:1:\"0\";s:3:\"iso\";s:1:\"0\";s:13:\"shutter_speed\";s:1:\"0\";s:5:\"title\";s:0:\"\";s:11:\"orientation\";s:1:\"0\";s:8:\"keywords\";a:0:{}}}"
+      }
+    },
+    {
+      "id": 130,
+      "name": "mueen-agherdien-t1u-dvo7nbo-unsplash",
+      "title": "mueen-agherdien-t1U-dVo7NBo-unsplash",
+      "type": "attachment",
+      "status": "inherit",
+      "comment_status": "open",
+      "excerpt": "",
+      "content": "",
+      "parent": 6,
+      "menu_order": 0,
+      "meta": {
+        "_wp_attached_file": "2021\/09\/mueen-agherdien-t1U-dVo7NBo-unsplash.jpg",
+        "_wp_attachment_metadata": "a:5:{s:5:\"width\";i:640;s:6:\"height\";i:427;s:4:\"file\";s:48:\"2021\/09\/mueen-agherdien-t1U-dVo7NBo-unsplash.jpg\";s:5:\"sizes\";a:2:{s:6:\"medium\";a:4:{s:4:\"file\";s:48:\"mueen-agherdien-t1U-dVo7NBo-unsplash-300x200.jpg\";s:5:\"width\";i:300;s:6:\"height\";i:200;s:9:\"mime-type\";s:10:\"image\/jpeg\";}s:9:\"thumbnail\";a:4:{s:4:\"file\";s:48:\"mueen-agherdien-t1U-dVo7NBo-unsplash-150x150.jpg\";s:5:\"width\";i:150;s:6:\"height\";i:150;s:9:\"mime-type\";s:10:\"image\/jpeg\";}}s:10:\"image_meta\";a:12:{s:8:\"aperture\";s:1:\"0\";s:6:\"credit\";s:0:\"\";s:6:\"camera\";s:0:\"\";s:7:\"caption\";s:0:\"\";s:17:\"created_timestamp\";s:1:\"0\";s:9:\"copyright\";s:0:\"\";s:12:\"focal_length\";s:1:\"0\";s:3:\"iso\";s:1:\"0\";s:13:\"shutter_speed\";s:1:\"0\";s:5:\"title\";s:0:\"\";s:11:\"orientation\";s:1:\"0\";s:8:\"keywords\";a:0:{}}}"
+      }
+    },
+    {
+      "id": 151,
+      "name": "logo_2_sm_f_color",
+      "title": "logo_2_sm_f_color",
+      "type": "attachment",
+      "status": "inherit",
+      "comment_status": "open",
+      "excerpt": "",
+      "content": "",
+      "parent": 25,
+      "menu_order": 0,
+      "meta": {
+        "_wp_attached_file": "2021\/09\/logo_2_sm_f_color.png",
+        "_wp_attachment_metadata": "a:5:{s:5:\"width\";i:100;s:6:\"height\";i:54;s:4:\"file\";s:29:\"2021\/09\/logo_2_sm_f_color.png\";s:5:\"sizes\";a:0:{}s:10:\"image_meta\";a:12:{s:8:\"aperture\";s:1:\"0\";s:6:\"credit\";s:0:\"\";s:6:\"camera\";s:0:\"\";s:7:\"caption\";s:0:\"\";s:17:\"created_timestamp\";s:1:\"0\";s:9:\"copyright\";s:0:\"\";s:12:\"focal_length\";s:1:\"0\";s:3:\"iso\";s:1:\"0\";s:13:\"shutter_speed\";s:1:\"0\";s:5:\"title\";s:0:\"\";s:11:\"orientation\";s:1:\"0\";s:8:\"keywords\";a:0:{}}}"
+      }
+    },
+    {
+      "id": 155,
+      "name": "155",
+      "title": "",
+      "type": "nav_menu_item",
+      "status": "publish",
+      "comment_status": "closed",
+      "excerpt": "",
+      "content": " ",
+      "parent": 0,
+      "menu_order": 1,
+      "terms": [
+        3
+      ],
+      "meta": {
+        "_menu_item_type": "post_type",
+        "_menu_item_menu_item_parent": "0",
+        "_menu_item_object_id": "6",
+        "_menu_item_object": "page",
+        "_menu_item_target": "",
+        "_menu_item_classes": "a:1:{i:0;s:0:\"\";}",
+        "_menu_item_xfn": "",
+        "_menu_item_url": ""
+      }
+    },
+    {
+      "id": 156,
+      "name": "about-us",
+      "title": "About Us",
+      "type": "nav_menu_item",
+      "status": "publish",
+      "comment_status": "closed",
+      "excerpt": "",
+      "content": "",
+      "parent": 0,
+      "menu_order": 2,
+      "terms": [
+        3
+      ],
+      "meta": {
+        "_menu_item_type": "custom",
+        "_menu_item_menu_item_parent": "0",
+        "_menu_item_object_id": "156",
+        "_menu_item_object": "custom",
+        "_menu_item_target": "",
+        "_menu_item_classes": "a:1:{i:0;s:0:\"\";}",
+        "_menu_item_xfn": "",
+        "_menu_item_url": "#"
+      }
+    },
+    {
+      "id": 157,
+      "name": "our-services",
+      "title": "Our Services",
+      "type": "nav_menu_item",
+      "status": "publish",
+      "comment_status": "closed",
+      "excerpt": "",
+      "content": "",
+      "parent": 0,
+      "menu_order": 3,
+      "terms": [
+        3
+      ],
+      "meta": {
+        "_menu_item_type": "custom",
+        "_menu_item_menu_item_parent": "0",
+        "_menu_item_object_id": "157",
+        "_menu_item_object": "custom",
+        "_menu_item_target": "",
+        "_menu_item_classes": "a:1:{i:0;s:0:\"\";}",
+        "_menu_item_xfn": "",
+        "_menu_item_url": "#"
+      }
+    },
+    {
+      "id": 158,
+      "name": "contact-us",
+      "title": "Contact Us",
+      "type": "nav_menu_item",
+      "status": "publish",
+      "comment_status": "closed",
+      "excerpt": "",
+      "content": "",
+      "parent": 0,
+      "menu_order": 4,
+      "terms": [
+        3
+      ],
+      "meta": {
+        "_menu_item_type": "custom",
+        "_menu_item_menu_item_parent": "0",
+        "_menu_item_object_id": "158",
+        "_menu_item_object": "custom",
+        "_menu_item_target": "",
+        "_menu_item_classes": "a:1:{i:0;s:0:\"\";}",
+        "_menu_item_xfn": "",
+        "_menu_item_url": "#"
+      }
+    },
+    {
+      "id": 191,
+      "name": "neonbrand-zfso6bnzjtw-unsplash",
+      "title": "neonbrand-zFSo6bnZJTw-unsplash",
+      "type": "attachment",
+      "status": "inherit",
+      "comment_status": "open",
+      "excerpt": "",
+      "content": "",
+      "parent": 6,
+      "menu_order": 0,
+      "meta": {
+        "_wp_attached_file": "2021\/10\/neonbrand-zFSo6bnZJTw-unsplash.jpg",
+        "_wp_attachment_metadata": "a:5:{s:5:\"width\";i:1920;s:6:\"height\";i:1195;s:4:\"file\";s:42:\"2021\/10\/neonbrand-zFSo6bnZJTw-unsplash.jpg\";s:5:\"sizes\";a:5:{s:6:\"medium\";a:4:{s:4:\"file\";s:42:\"neonbrand-zFSo6bnZJTw-unsplash-300x187.jpg\";s:5:\"width\";i:300;s:6:\"height\";i:187;s:9:\"mime-type\";s:10:\"image\/jpeg\";}s:5:\"large\";a:4:{s:4:\"file\";s:43:\"neonbrand-zFSo6bnZJTw-unsplash-1024x637.jpg\";s:5:\"width\";i:1024;s:6:\"height\";i:637;s:9:\"mime-type\";s:10:\"image\/jpeg\";}s:9:\"thumbnail\";a:4:{s:4:\"file\";s:42:\"neonbrand-zFSo6bnZJTw-unsplash-150x150.jpg\";s:5:\"width\";i:150;s:6:\"height\";i:150;s:9:\"mime-type\";s:10:\"image\/jpeg\";}s:12:\"medium_large\";a:4:{s:4:\"file\";s:42:\"neonbrand-zFSo6bnZJTw-unsplash-768x478.jpg\";s:5:\"width\";i:768;s:6:\"height\";i:478;s:9:\"mime-type\";s:10:\"image\/jpeg\";}s:9:\"1536x1536\";a:4:{s:4:\"file\";s:43:\"neonbrand-zFSo6bnZJTw-unsplash-1536x956.jpg\";s:5:\"width\";i:1536;s:6:\"height\";i:956;s:9:\"mime-type\";s:10:\"image\/jpeg\";}}s:10:\"image_meta\";a:12:{s:8:\"aperture\";s:1:\"0\";s:6:\"credit\";s:0:\"\";s:6:\"camera\";s:0:\"\";s:7:\"caption\";s:0:\"\";s:17:\"created_timestamp\";s:1:\"0\";s:9:\"copyright\";s:0:\"\";s:12:\"focal_length\";s:1:\"0\";s:3:\"iso\";s:1:\"0\";s:13:\"shutter_speed\";s:1:\"0\";s:5:\"title\";s:0:\"\";s:11:\"orientation\";s:1:\"0\";s:8:\"keywords\";a:0:{}}}"
+      }
+    },
+    {
+      "id": 200,
+      "name": "architecture_building_amsterdam_blue_sky_business_modern_urban_blue-1037258-jpgd",
+      "title": "architecture_building_amsterdam_blue_sky_business_modern_urban_blue-1037258.jpg!d",
+      "type": "attachment",
+      "status": "inherit",
+      "comment_status": "open",
+      "excerpt": "",
+      "content": "",
+      "parent": 6,
+      "menu_order": 0,
+      "meta": {
+        "_wp_attached_file": "2021\/10\/architecture_building_amsterdam_blue_sky_business_modern_urban_blue-1037258.jpgd_.jpg",
+        "_wp_attachment_metadata": "a:5:{s:5:\"width\";i:1200;s:6:\"height\";i:676;s:4:\"file\";s:93:\"2021\/10\/architecture_building_amsterdam_blue_sky_business_modern_urban_blue-1037258.jpgd_.jpg\";s:5:\"sizes\";a:4:{s:6:\"medium\";a:4:{s:4:\"file\";s:93:\"architecture_building_amsterdam_blue_sky_business_modern_urban_blue-1037258.jpgd_-300x169.jpg\";s:5:\"width\";i:300;s:6:\"height\";i:169;s:9:\"mime-type\";s:10:\"image\/jpeg\";}s:5:\"large\";a:4:{s:4:\"file\";s:94:\"architecture_building_amsterdam_blue_sky_business_modern_urban_blue-1037258.jpgd_-1024x577.jpg\";s:5:\"width\";i:1024;s:6:\"height\";i:577;s:9:\"mime-type\";s:10:\"image\/jpeg\";}s:9:\"thumbnail\";a:4:{s:4:\"file\";s:93:\"architecture_building_amsterdam_blue_sky_business_modern_urban_blue-1037258.jpgd_-150x150.jpg\";s:5:\"width\";i:150;s:6:\"height\";i:150;s:9:\"mime-type\";s:10:\"image\/jpeg\";}s:12:\"medium_large\";a:4:{s:4:\"file\";s:93:\"architecture_building_amsterdam_blue_sky_business_modern_urban_blue-1037258.jpgd_-768x433.jpg\";s:5:\"width\";i:768;s:6:\"height\";i:433;s:9:\"mime-type\";s:10:\"image\/jpeg\";}}s:10:\"image_meta\";a:12:{s:8:\"aperture\";s:1:\"0\";s:6:\"credit\";s:0:\"\";s:6:\"camera\";s:0:\"\";s:7:\"caption\";s:0:\"\";s:17:\"created_timestamp\";s:1:\"0\";s:9:\"copyright\";s:0:\"\";s:12:\"focal_length\";s:1:\"0\";s:3:\"iso\";s:1:\"0\";s:13:\"shutter_speed\";s:1:\"0\";s:5:\"title\";s:0:\"\";s:11:\"orientation\";s:1:\"0\";s:8:\"keywords\";a:0:{}}}"
+      }
+    },
+    {
+      "id": 202,
+      "name": "business_center_exterior_architecture_glass_modern_corporate_building-593375-jpgd",
+      "title": "business_center_exterior_architecture_glass_modern_corporate_building-593375.jpg!d",
+      "type": "attachment",
+      "status": "inherit",
+      "comment_status": "open",
+      "excerpt": "",
+      "content": "",
+      "parent": 6,
+      "menu_order": 0,
+      "meta": {
+        "_wp_attached_file": "2021\/10\/business_center_exterior_architecture_glass_modern_corporate_building-593375.jpgd_.jpg",
+        "_wp_attachment_metadata": "a:5:{s:5:\"width\";i:1200;s:6:\"height\";i:800;s:4:\"file\";s:94:\"2021\/10\/business_center_exterior_architecture_glass_modern_corporate_building-593375.jpgd_.jpg\";s:5:\"sizes\";a:4:{s:6:\"medium\";a:4:{s:4:\"file\";s:94:\"business_center_exterior_architecture_glass_modern_corporate_building-593375.jpgd_-300x200.jpg\";s:5:\"width\";i:300;s:6:\"height\";i:200;s:9:\"mime-type\";s:10:\"image\/jpeg\";}s:5:\"large\";a:4:{s:4:\"file\";s:95:\"business_center_exterior_architecture_glass_modern_corporate_building-593375.jpgd_-1024x683.jpg\";s:5:\"width\";i:1024;s:6:\"height\";i:683;s:9:\"mime-type\";s:10:\"image\/jpeg\";}s:9:\"thumbnail\";a:4:{s:4:\"file\";s:94:\"business_center_exterior_architecture_glass_modern_corporate_building-593375.jpgd_-150x150.jpg\";s:5:\"width\";i:150;s:6:\"height\";i:150;s:9:\"mime-type\";s:10:\"image\/jpeg\";}s:12:\"medium_large\";a:4:{s:4:\"file\";s:94:\"business_center_exterior_architecture_glass_modern_corporate_building-593375.jpgd_-768x512.jpg\";s:5:\"width\";i:768;s:6:\"height\";i:512;s:9:\"mime-type\";s:10:\"image\/jpeg\";}}s:10:\"image_meta\";a:12:{s:8:\"aperture\";s:1:\"0\";s:6:\"credit\";s:0:\"\";s:6:\"camera\";s:0:\"\";s:7:\"caption\";s:0:\"\";s:17:\"created_timestamp\";s:1:\"0\";s:9:\"copyright\";s:0:\"\";s:12:\"focal_length\";s:1:\"0\";s:3:\"iso\";s:1:\"0\";s:13:\"shutter_speed\";s:1:\"0\";s:5:\"title\";s:0:\"\";s:11:\"orientation\";s:1:\"0\";s:8:\"keywords\";a:0:{}}}"
+      }
+    },
+    {
+      "id": 203,
+      "name": "inside_business_center_interior_foyer_lobby_entrance_architecture-593373-jpgd",
+      "title": "inside_business_center_interior_foyer_lobby_entrance_architecture-593373.jpg!d",
+      "type": "attachment",
+      "status": "inherit",
+      "comment_status": "open",
+      "excerpt": "",
+      "content": "",
+      "parent": 6,
+      "menu_order": 0,
+      "meta": {
+        "_wp_attached_file": "2021\/10\/inside_business_center_interior_foyer_lobby_entrance_architecture-593373.jpgd_.jpg",
+        "_wp_attachment_metadata": "a:5:{s:5:\"width\";i:1200;s:6:\"height\";i:800;s:4:\"file\";s:90:\"2021\/10\/inside_business_center_interior_foyer_lobby_entrance_architecture-593373.jpgd_.jpg\";s:5:\"sizes\";a:4:{s:6:\"medium\";a:4:{s:4:\"file\";s:90:\"inside_business_center_interior_foyer_lobby_entrance_architecture-593373.jpgd_-300x200.jpg\";s:5:\"width\";i:300;s:6:\"height\";i:200;s:9:\"mime-type\";s:10:\"image\/jpeg\";}s:5:\"large\";a:4:{s:4:\"file\";s:91:\"inside_business_center_interior_foyer_lobby_entrance_architecture-593373.jpgd_-1024x683.jpg\";s:5:\"width\";i:1024;s:6:\"height\";i:683;s:9:\"mime-type\";s:10:\"image\/jpeg\";}s:9:\"thumbnail\";a:4:{s:4:\"file\";s:90:\"inside_business_center_interior_foyer_lobby_entrance_architecture-593373.jpgd_-150x150.jpg\";s:5:\"width\";i:150;s:6:\"height\";i:150;s:9:\"mime-type\";s:10:\"image\/jpeg\";}s:12:\"medium_large\";a:4:{s:4:\"file\";s:90:\"inside_business_center_interior_foyer_lobby_entrance_architecture-593373.jpgd_-768x512.jpg\";s:5:\"width\";i:768;s:6:\"height\";i:512;s:9:\"mime-type\";s:10:\"image\/jpeg\";}}s:10:\"image_meta\";a:12:{s:8:\"aperture\";s:1:\"0\";s:6:\"credit\";s:0:\"\";s:6:\"camera\";s:0:\"\";s:7:\"caption\";s:0:\"\";s:17:\"created_timestamp\";s:1:\"0\";s:9:\"copyright\";s:0:\"\";s:12:\"focal_length\";s:1:\"0\";s:3:\"iso\";s:1:\"0\";s:13:\"shutter_speed\";s:1:\"0\";s:5:\"title\";s:0:\"\";s:11:\"orientation\";s:1:\"0\";s:8:\"keywords\";a:0:{}}}"
+      }
+    },
+    {
+      "id": 204,
+      "name": "inside_business_center_interior_foyer_lobby_entrance_architecture-593374-jpgd",
+      "title": "inside_business_center_interior_foyer_lobby_entrance_architecture-593374.jpg!d",
+      "type": "attachment",
+      "status": "inherit",
+      "comment_status": "open",
+      "excerpt": "",
+      "content": "",
+      "parent": 6,
+      "menu_order": 0,
+      "meta": {
+        "_wp_attached_file": "2021\/10\/inside_business_center_interior_foyer_lobby_entrance_architecture-593374.jpgd_.jpg",
+        "_wp_attachment_metadata": "a:5:{s:5:\"width\";i:1200;s:6:\"height\";i:786;s:4:\"file\";s:90:\"2021\/10\/inside_business_center_interior_foyer_lobby_entrance_architecture-593374.jpgd_.jpg\";s:5:\"sizes\";a:4:{s:6:\"medium\";a:4:{s:4:\"file\";s:90:\"inside_business_center_interior_foyer_lobby_entrance_architecture-593374.jpgd_-300x197.jpg\";s:5:\"width\";i:300;s:6:\"height\";i:197;s:9:\"mime-type\";s:10:\"image\/jpeg\";}s:5:\"large\";a:4:{s:4:\"file\";s:91:\"inside_business_center_interior_foyer_lobby_entrance_architecture-593374.jpgd_-1024x671.jpg\";s:5:\"width\";i:1024;s:6:\"height\";i:671;s:9:\"mime-type\";s:10:\"image\/jpeg\";}s:9:\"thumbnail\";a:4:{s:4:\"file\";s:90:\"inside_business_center_interior_foyer_lobby_entrance_architecture-593374.jpgd_-150x150.jpg\";s:5:\"width\";i:150;s:6:\"height\";i:150;s:9:\"mime-type\";s:10:\"image\/jpeg\";}s:12:\"medium_large\";a:4:{s:4:\"file\";s:90:\"inside_business_center_interior_foyer_lobby_entrance_architecture-593374.jpgd_-768x503.jpg\";s:5:\"width\";i:768;s:6:\"height\";i:503;s:9:\"mime-type\";s:10:\"image\/jpeg\";}}s:10:\"image_meta\";a:12:{s:8:\"aperture\";s:1:\"0\";s:6:\"credit\";s:0:\"\";s:6:\"camera\";s:0:\"\";s:7:\"caption\";s:0:\"\";s:17:\"created_timestamp\";s:1:\"0\";s:9:\"copyright\";s:0:\"\";s:12:\"focal_length\";s:1:\"0\";s:3:\"iso\";s:1:\"0\";s:13:\"shutter_speed\";s:1:\"0\";s:5:\"title\";s:0:\"\";s:11:\"orientation\";s:1:\"0\";s:8:\"keywords\";a:0:{}}}"
+      }
+    },
+    {
+      "id": 205,
+      "name": "modern_office_architecture_business_centre_glass_atrium_urban_office_modern-675610-jpgd",
+      "title": "modern_office_architecture_business_centre_glass_atrium_urban_office_modern-675610.jpg!d",
+      "type": "attachment",
+      "status": "inherit",
+      "comment_status": "open",
+      "excerpt": "",
+      "content": "",
+      "parent": 6,
+      "menu_order": 0,
+      "meta": {
+        "_wp_attached_file": "2021\/10\/modern_office_architecture_business_centre_glass_atrium_urban_office_modern-675610.jpgd_.jpg",
+        "_wp_attachment_metadata": "a:5:{s:5:\"width\";i:1200;s:6:\"height\";i:662;s:4:\"file\";s:100:\"2021\/10\/modern_office_architecture_business_centre_glass_atrium_urban_office_modern-675610.jpgd_.jpg\";s:5:\"sizes\";a:4:{s:6:\"medium\";a:4:{s:4:\"file\";s:100:\"modern_office_architecture_business_centre_glass_atrium_urban_office_modern-675610.jpgd_-300x166.jpg\";s:5:\"width\";i:300;s:6:\"height\";i:166;s:9:\"mime-type\";s:10:\"image\/jpeg\";}s:5:\"large\";a:4:{s:4:\"file\";s:101:\"modern_office_architecture_business_centre_glass_atrium_urban_office_modern-675610.jpgd_-1024x565.jpg\";s:5:\"width\";i:1024;s:6:\"height\";i:565;s:9:\"mime-type\";s:10:\"image\/jpeg\";}s:9:\"thumbnail\";a:4:{s:4:\"file\";s:100:\"modern_office_architecture_business_centre_glass_atrium_urban_office_modern-675610.jpgd_-150x150.jpg\";s:5:\"width\";i:150;s:6:\"height\";i:150;s:9:\"mime-type\";s:10:\"image\/jpeg\";}s:12:\"medium_large\";a:4:{s:4:\"file\";s:100:\"modern_office_architecture_business_centre_glass_atrium_urban_office_modern-675610.jpgd_-768x424.jpg\";s:5:\"width\";i:768;s:6:\"height\";i:424;s:9:\"mime-type\";s:10:\"image\/jpeg\";}}s:10:\"image_meta\";a:12:{s:8:\"aperture\";s:1:\"0\";s:6:\"credit\";s:0:\"\";s:6:\"camera\";s:0:\"\";s:7:\"caption\";s:0:\"\";s:17:\"created_timestamp\";s:1:\"0\";s:9:\"copyright\";s:0:\"\";s:12:\"focal_length\";s:1:\"0\";s:3:\"iso\";s:1:\"0\";s:13:\"shutter_speed\";s:1:\"0\";s:5:\"title\";s:0:\"\";s:11:\"orientation\";s:1:\"0\";s:8:\"keywords\";a:0:{}}}"
+      }
+    },
+    {
+      "id": 209,
+      "name": "children_win_success_video_game_play_happy_notebooks_creative-764632-jpgd",
+      "title": "children_win_success_video_game_play_happy_notebooks_creative-764632.jpg!d",
+      "type": "attachment",
+      "status": "inherit",
+      "comment_status": "open",
+      "excerpt": "",
+      "content": "",
+      "parent": 6,
+      "menu_order": 0,
+      "meta": {
+        "_wp_attached_file": "2021\/10\/children_win_success_video_game_play_happy_notebooks_creative-764632.jpgd_.jpg",
+        "_wp_attachment_metadata": "a:5:{s:5:\"width\";i:1200;s:6:\"height\";i:800;s:4:\"file\";s:86:\"2021\/10\/children_win_success_video_game_play_happy_notebooks_creative-764632.jpgd_.jpg\";s:5:\"sizes\";a:4:{s:6:\"medium\";a:4:{s:4:\"file\";s:86:\"children_win_success_video_game_play_happy_notebooks_creative-764632.jpgd_-300x200.jpg\";s:5:\"width\";i:300;s:6:\"height\";i:200;s:9:\"mime-type\";s:10:\"image\/jpeg\";}s:5:\"large\";a:4:{s:4:\"file\";s:87:\"children_win_success_video_game_play_happy_notebooks_creative-764632.jpgd_-1024x683.jpg\";s:5:\"width\";i:1024;s:6:\"height\";i:683;s:9:\"mime-type\";s:10:\"image\/jpeg\";}s:9:\"thumbnail\";a:4:{s:4:\"file\";s:86:\"children_win_success_video_game_play_happy_notebooks_creative-764632.jpgd_-150x150.jpg\";s:5:\"width\";i:150;s:6:\"height\";i:150;s:9:\"mime-type\";s:10:\"image\/jpeg\";}s:12:\"medium_large\";a:4:{s:4:\"file\";s:86:\"children_win_success_video_game_play_happy_notebooks_creative-764632.jpgd_-768x512.jpg\";s:5:\"width\";i:768;s:6:\"height\";i:512;s:9:\"mime-type\";s:10:\"image\/jpeg\";}}s:10:\"image_meta\";a:12:{s:8:\"aperture\";s:1:\"0\";s:6:\"credit\";s:0:\"\";s:6:\"camera\";s:0:\"\";s:7:\"caption\";s:0:\"\";s:17:\"created_timestamp\";s:1:\"0\";s:9:\"copyright\";s:0:\"\";s:12:\"focal_length\";s:1:\"0\";s:3:\"iso\";s:1:\"0\";s:13:\"shutter_speed\";s:1:\"0\";s:5:\"title\";s:0:\"\";s:11:\"orientation\";s:1:\"0\";s:8:\"keywords\";a:0:{}}}"
+      }
+    },
+    {
+      "id": 214,
+      "name": "graduation_man_cap_gown_education_university_college_school-867306-jpgd",
+      "title": "graduation_man_cap_gown_education_university_college_school-867306.jpg!d",
+      "type": "attachment",
+      "status": "inherit",
+      "comment_status": "open",
+      "excerpt": "",
+      "content": "",
+      "parent": 6,
+      "menu_order": 0,
+      "meta": {
+        "_wp_attached_file": "2021\/10\/graduation_man_cap_gown_education_university_college_school-867306.jpgd_.jpg",
+        "_wp_attachment_metadata": "a:5:{s:5:\"width\";i:1200;s:6:\"height\";i:794;s:4:\"file\";s:84:\"2021\/10\/graduation_man_cap_gown_education_university_college_school-867306.jpgd_.jpg\";s:5:\"sizes\";a:4:{s:6:\"medium\";a:4:{s:4:\"file\";s:84:\"graduation_man_cap_gown_education_university_college_school-867306.jpgd_-300x199.jpg\";s:5:\"width\";i:300;s:6:\"height\";i:199;s:9:\"mime-type\";s:10:\"image\/jpeg\";}s:5:\"large\";a:4:{s:4:\"file\";s:85:\"graduation_man_cap_gown_education_university_college_school-867306.jpgd_-1024x678.jpg\";s:5:\"width\";i:1024;s:6:\"height\";i:678;s:9:\"mime-type\";s:10:\"image\/jpeg\";}s:9:\"thumbnail\";a:4:{s:4:\"file\";s:84:\"graduation_man_cap_gown_education_university_college_school-867306.jpgd_-150x150.jpg\";s:5:\"width\";i:150;s:6:\"height\";i:150;s:9:\"mime-type\";s:10:\"image\/jpeg\";}s:12:\"medium_large\";a:4:{s:4:\"file\";s:84:\"graduation_man_cap_gown_education_university_college_school-867306.jpgd_-768x508.jpg\";s:5:\"width\";i:768;s:6:\"height\";i:508;s:9:\"mime-type\";s:10:\"image\/jpeg\";}}s:10:\"image_meta\";a:12:{s:8:\"aperture\";s:1:\"0\";s:6:\"credit\";s:0:\"\";s:6:\"camera\";s:0:\"\";s:7:\"caption\";s:0:\"\";s:17:\"created_timestamp\";s:1:\"0\";s:9:\"copyright\";s:0:\"\";s:12:\"focal_length\";s:1:\"0\";s:3:\"iso\";s:1:\"0\";s:13:\"shutter_speed\";s:1:\"0\";s:5:\"title\";s:0:\"\";s:11:\"orientation\";s:1:\"0\";s:8:\"keywords\";a:0:{}}}"
+      }
+    }
+  ]
+}
